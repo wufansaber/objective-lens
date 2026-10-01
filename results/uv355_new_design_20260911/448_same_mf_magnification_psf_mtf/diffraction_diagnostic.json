@@ -1,0 +1,553 @@
+{
+  "source": "D:\\work\\git_share\\Fourier\\results\\uv355_new_design_20260911\\443_same_mf_magnification_homotopy\\UV355_BEST_UNCHANGED_MF_MAGNIFICATION_GUARD.zmx",
+  "source_sha256": "f68ab0b1d09ba1ba636484805183ccd20953f5f9eed1839828ef2e8a10d40425",
+  "analyses": [
+    {
+      "kind": "FFT_MTF",
+      "wave": 1,
+      "sampling": "5",
+      "file": "D:\\work\\git_share\\Fourier\\results\\uv355_new_design_20260911\\448_same_mf_magnification_psf_mtf\\fft_mtf_w1_512.txt"
+    },
+    {
+      "kind": "FFT_MTF",
+      "wave": 2,
+      "sampling": "5",
+      "file": "D:\\work\\git_share\\Fourier\\results\\uv355_new_design_20260911\\448_same_mf_magnification_psf_mtf\\fft_mtf_w2_512.txt"
+    },
+    {
+      "kind": "FFT_MTF",
+      "wave": 3,
+      "sampling": "5",
+      "file": "D:\\work\\git_share\\Fourier\\results\\uv355_new_design_20260911\\448_same_mf_magnification_psf_mtf\\fft_mtf_w3_512.txt"
+    },
+    {
+      "kind": "FFT_MTF",
+      "wave": 4,
+      "sampling": "5",
+      "file": "D:\\work\\git_share\\Fourier\\results\\uv355_new_design_20260911\\448_same_mf_magnification_psf_mtf\\fft_mtf_w4_512.txt"
+    },
+    {
+      "kind": "FFT_MTF",
+      "wave": 5,
+      "sampling": "5",
+      "file": "D:\\work\\git_share\\Fourier\\results\\uv355_new_design_20260911\\448_same_mf_magnification_psf_mtf\\fft_mtf_w5_512.txt"
+    },
+    {
+      "kind": "FFT_MTF",
+      "wave": 0,
+      "sampling": "5",
+      "file": "D:\\work\\git_share\\Fourier\\results\\uv355_new_design_20260911\\448_same_mf_magnification_psf_mtf\\fft_mtf_w0_512.txt"
+    },
+    {
+      "kind": "Huygens_PSF",
+      "wave": 1,
+      "field": 1,
+      "pupil": 128,
+      "image": 64,
+      "normalize": false,
+      "centroid": true,
+      "image_delta_setting": 0.0,
+      "file": "D:\\work\\git_share\\Fourier\\results\\uv355_new_design_20260911\\448_same_mf_magnification_psf_mtf\\huygens_psf_w1_f1_p128.txt",
+      "native_summary": [
+        "Data spacing is 0.262 \u00b5m.",
+        "Strehl ratio: 0.956"
+      ]
+    },
+    {
+      "kind": "Huygens_PSF",
+      "wave": 1,
+      "field": 1,
+      "pupil": 256,
+      "image": 64,
+      "normalize": false,
+      "centroid": true,
+      "image_delta_setting": 0.0,
+      "file": "D:\\work\\git_share\\Fourier\\results\\uv355_new_design_20260911\\448_same_mf_magnification_psf_mtf\\huygens_psf_w1_f1_p256.txt",
+      "native_summary": [
+        "Data spacing is 0.185 \u00b5m.",
+        "Strehl ratio: 0.954"
+      ]
+    },
+    {
+      "kind": "Huygens_PSF",
+      "wave": 1,
+      "field": 2,
+      "pupil": 128,
+      "image": 64,
+      "normalize": false,
+      "centroid": true,
+      "image_delta_setting": 0.0,
+      "file": "D:\\work\\git_share\\Fourier\\results\\uv355_new_design_20260911\\448_same_mf_magnification_psf_mtf\\huygens_psf_w1_f2_p128.txt",
+      "native_summary": [
+        "Data spacing is 0.262 \u00b5m.",
+        "Strehl ratio: 0.956"
+      ]
+    },
+    {
+      "kind": "Huygens_PSF",
+      "wave": 1,
+      "field": 2,
+      "pupil": 256,
+      "image": 64,
+      "normalize": false,
+      "centroid": true,
+      "image_delta_setting": 0.0,
+      "file": "D:\\work\\git_share\\Fourier\\results\\uv355_new_design_20260911\\448_same_mf_magnification_psf_mtf\\huygens_psf_w1_f2_p256.txt",
+      "native_summary": [
+        "Data spacing is 0.185 \u00b5m.",
+        "Strehl ratio: 0.957"
+      ]
+    },
+    {
+      "kind": "Huygens_PSF",
+      "wave": 1,
+      "field": 3,
+      "pupil": 128,
+      "image": 64,
+      "normalize": false,
+      "centroid": true,
+      "image_delta_setting": 0.0,
+      "file": "D:\\work\\git_share\\Fourier\\results\\uv355_new_design_20260911\\448_same_mf_magnification_psf_mtf\\huygens_psf_w1_f3_p128.txt",
+      "native_summary": [
+        "Data spacing is 0.262 \u00b5m.",
+        "Strehl ratio: 0.958"
+      ]
+    },
+    {
+      "kind": "Huygens_PSF",
+      "wave": 1,
+      "field": 3,
+      "pupil": 256,
+      "image": 64,
+      "normalize": false,
+      "centroid": true,
+      "image_delta_setting": 0.0,
+      "file": "D:\\work\\git_share\\Fourier\\results\\uv355_new_design_20260911\\448_same_mf_magnification_psf_mtf\\huygens_psf_w1_f3_p256.txt",
+      "native_summary": [
+        "Data spacing is 0.185 \u00b5m.",
+        "Strehl ratio: 0.960"
+      ]
+    },
+    {
+      "kind": "Huygens_PSF",
+      "wave": 1,
+      "field": 4,
+      "pupil": 128,
+      "image": 64,
+      "normalize": false,
+      "centroid": true,
+      "image_delta_setting": 0.0,
+      "file": "D:\\work\\git_share\\Fourier\\results\\uv355_new_design_20260911\\448_same_mf_magnification_psf_mtf\\huygens_psf_w1_f4_p128.txt",
+      "native_summary": [
+        "Data spacing is 0.262 \u00b5m.",
+        "Strehl ratio: 0.955"
+      ]
+    },
+    {
+      "kind": "Huygens_PSF",
+      "wave": 1,
+      "field": 4,
+      "pupil": 256,
+      "image": 64,
+      "normalize": false,
+      "centroid": true,
+      "image_delta_setting": 0.0,
+      "file": "D:\\work\\git_share\\Fourier\\results\\uv355_new_design_20260911\\448_same_mf_magnification_psf_mtf\\huygens_psf_w1_f4_p256.txt",
+      "native_summary": [
+        "Data spacing is 0.185 \u00b5m.",
+        "Strehl ratio: 0.956"
+      ]
+    },
+    {
+      "kind": "Huygens_PSF",
+      "wave": 1,
+      "field": 5,
+      "pupil": 128,
+      "image": 64,
+      "normalize": false,
+      "centroid": true,
+      "image_delta_setting": 0.0,
+      "file": "D:\\work\\git_share\\Fourier\\results\\uv355_new_design_20260911\\448_same_mf_magnification_psf_mtf\\huygens_psf_w1_f5_p128.txt",
+      "native_summary": [
+        "Data spacing is 0.262 \u00b5m.",
+        "Strehl ratio: 0.865"
+      ]
+    },
+    {
+      "kind": "Huygens_PSF",
+      "wave": 1,
+      "field": 5,
+      "pupil": 256,
+      "image": 64,
+      "normalize": false,
+      "centroid": true,
+      "image_delta_setting": 0.0,
+      "file": "D:\\work\\git_share\\Fourier\\results\\uv355_new_design_20260911\\448_same_mf_magnification_psf_mtf\\huygens_psf_w1_f5_p256.txt",
+      "native_summary": [
+        "Data spacing is 0.185 \u00b5m.",
+        "Strehl ratio: 0.866"
+      ]
+    },
+    {
+      "kind": "Huygens_PSF",
+      "wave": 2,
+      "field": 1,
+      "pupil": 128,
+      "image": 64,
+      "normalize": false,
+      "centroid": true,
+      "image_delta_setting": 0.0,
+      "file": "D:\\work\\git_share\\Fourier\\results\\uv355_new_design_20260911\\448_same_mf_magnification_psf_mtf\\huygens_psf_w2_f1_p128.txt",
+      "native_summary": [
+        "Data spacing is 0.261 \u00b5m.",
+        "Strehl ratio: 0.946"
+      ]
+    },
+    {
+      "kind": "Huygens_PSF",
+      "wave": 2,
+      "field": 2,
+      "pupil": 128,
+      "image": 64,
+      "normalize": false,
+      "centroid": true,
+      "image_delta_setting": 0.0,
+      "file": "D:\\work\\git_share\\Fourier\\results\\uv355_new_design_20260911\\448_same_mf_magnification_psf_mtf\\huygens_psf_w2_f2_p128.txt",
+      "native_summary": [
+        "Data spacing is 0.261 \u00b5m.",
+        "Strehl ratio: 0.942"
+      ]
+    },
+    {
+      "kind": "Huygens_PSF",
+      "wave": 2,
+      "field": 3,
+      "pupil": 128,
+      "image": 64,
+      "normalize": false,
+      "centroid": true,
+      "image_delta_setting": 0.0,
+      "file": "D:\\work\\git_share\\Fourier\\results\\uv355_new_design_20260911\\448_same_mf_magnification_psf_mtf\\huygens_psf_w2_f3_p128.txt",
+      "native_summary": [
+        "Data spacing is 0.261 \u00b5m.",
+        "Strehl ratio: 0.935"
+      ]
+    },
+    {
+      "kind": "Huygens_PSF",
+      "wave": 2,
+      "field": 4,
+      "pupil": 128,
+      "image": 64,
+      "normalize": false,
+      "centroid": true,
+      "image_delta_setting": 0.0,
+      "file": "D:\\work\\git_share\\Fourier\\results\\uv355_new_design_20260911\\448_same_mf_magnification_psf_mtf\\huygens_psf_w2_f4_p128.txt",
+      "native_summary": [
+        "Data spacing is 0.261 \u00b5m.",
+        "Strehl ratio: 0.929"
+      ]
+    },
+    {
+      "kind": "Huygens_PSF",
+      "wave": 2,
+      "field": 5,
+      "pupil": 128,
+      "image": 64,
+      "normalize": false,
+      "centroid": true,
+      "image_delta_setting": 0.0,
+      "file": "D:\\work\\git_share\\Fourier\\results\\uv355_new_design_20260911\\448_same_mf_magnification_psf_mtf\\huygens_psf_w2_f5_p128.txt",
+      "native_summary": [
+        "Data spacing is 0.261 \u00b5m.",
+        "Strehl ratio: 0.852"
+      ]
+    },
+    {
+      "kind": "Huygens_PSF",
+      "wave": 3,
+      "field": 1,
+      "pupil": 128,
+      "image": 64,
+      "normalize": false,
+      "centroid": true,
+      "image_delta_setting": 0.0,
+      "file": "D:\\work\\git_share\\Fourier\\results\\uv355_new_design_20260911\\448_same_mf_magnification_psf_mtf\\huygens_psf_w3_f1_p128.txt",
+      "native_summary": [
+        "Data spacing is 0.262 \u00b5m.",
+        "Strehl ratio: 0.941"
+      ]
+    },
+    {
+      "kind": "Huygens_PSF",
+      "wave": 3,
+      "field": 2,
+      "pupil": 128,
+      "image": 64,
+      "normalize": false,
+      "centroid": true,
+      "image_delta_setting": 0.0,
+      "file": "D:\\work\\git_share\\Fourier\\results\\uv355_new_design_20260911\\448_same_mf_magnification_psf_mtf\\huygens_psf_w3_f2_p128.txt",
+      "native_summary": [
+        "Data spacing is 0.262 \u00b5m.",
+        "Strehl ratio: 0.946"
+      ]
+    },
+    {
+      "kind": "Huygens_PSF",
+      "wave": 3,
+      "field": 3,
+      "pupil": 128,
+      "image": 64,
+      "normalize": false,
+      "centroid": true,
+      "image_delta_setting": 0.0,
+      "file": "D:\\work\\git_share\\Fourier\\results\\uv355_new_design_20260911\\448_same_mf_magnification_psf_mtf\\huygens_psf_w3_f3_p128.txt",
+      "native_summary": [
+        "Data spacing is 0.262 \u00b5m.",
+        "Strehl ratio: 0.956"
+      ]
+    },
+    {
+      "kind": "Huygens_PSF",
+      "wave": 3,
+      "field": 4,
+      "pupil": 128,
+      "image": 64,
+      "normalize": false,
+      "centroid": true,
+      "image_delta_setting": 0.0,
+      "file": "D:\\work\\git_share\\Fourier\\results\\uv355_new_design_20260911\\448_same_mf_magnification_psf_mtf\\huygens_psf_w3_f4_p128.txt",
+      "native_summary": [
+        "Data spacing is 0.262 \u00b5m.",
+        "Strehl ratio: 0.956"
+      ]
+    },
+    {
+      "kind": "Huygens_PSF",
+      "wave": 3,
+      "field": 5,
+      "pupil": 128,
+      "image": 64,
+      "normalize": false,
+      "centroid": true,
+      "image_delta_setting": 0.0,
+      "file": "D:\\work\\git_share\\Fourier\\results\\uv355_new_design_20260911\\448_same_mf_magnification_psf_mtf\\huygens_psf_w3_f5_p128.txt",
+      "native_summary": [
+        "Data spacing is 0.262 \u00b5m.",
+        "Strehl ratio: 0.855"
+      ]
+    },
+    {
+      "kind": "Huygens_PSF",
+      "wave": 4,
+      "field": 1,
+      "pupil": 128,
+      "image": 64,
+      "normalize": false,
+      "centroid": true,
+      "image_delta_setting": 0.0,
+      "file": "D:\\work\\git_share\\Fourier\\results\\uv355_new_design_20260911\\448_same_mf_magnification_psf_mtf\\huygens_psf_w4_f1_p128.txt",
+      "native_summary": [
+        "Data spacing is 0.261 \u00b5m.",
+        "Strehl ratio: 0.946"
+      ]
+    },
+    {
+      "kind": "Huygens_PSF",
+      "wave": 4,
+      "field": 2,
+      "pupil": 128,
+      "image": 64,
+      "normalize": false,
+      "centroid": true,
+      "image_delta_setting": 0.0,
+      "file": "D:\\work\\git_share\\Fourier\\results\\uv355_new_design_20260911\\448_same_mf_magnification_psf_mtf\\huygens_psf_w4_f2_p128.txt",
+      "native_summary": [
+        "Data spacing is 0.261 \u00b5m.",
+        "Strehl ratio: 0.942"
+      ]
+    },
+    {
+      "kind": "Huygens_PSF",
+      "wave": 4,
+      "field": 3,
+      "pupil": 128,
+      "image": 64,
+      "normalize": false,
+      "centroid": true,
+      "image_delta_setting": 0.0,
+      "file": "D:\\work\\git_share\\Fourier\\results\\uv355_new_design_20260911\\448_same_mf_magnification_psf_mtf\\huygens_psf_w4_f3_p128.txt",
+      "native_summary": [
+        "Data spacing is 0.261 \u00b5m.",
+        "Strehl ratio: 0.935"
+      ]
+    },
+    {
+      "kind": "Huygens_PSF",
+      "wave": 4,
+      "field": 4,
+      "pupil": 128,
+      "image": 64,
+      "normalize": false,
+      "centroid": true,
+      "image_delta_setting": 0.0,
+      "file": "D:\\work\\git_share\\Fourier\\results\\uv355_new_design_20260911\\448_same_mf_magnification_psf_mtf\\huygens_psf_w4_f4_p128.txt",
+      "native_summary": [
+        "Data spacing is 0.261 \u00b5m.",
+        "Strehl ratio: 0.929"
+      ]
+    },
+    {
+      "kind": "Huygens_PSF",
+      "wave": 4,
+      "field": 5,
+      "pupil": 128,
+      "image": 64,
+      "normalize": false,
+      "centroid": true,
+      "image_delta_setting": 0.0,
+      "file": "D:\\work\\git_share\\Fourier\\results\\uv355_new_design_20260911\\448_same_mf_magnification_psf_mtf\\huygens_psf_w4_f5_p128.txt",
+      "native_summary": [
+        "Data spacing is 0.261 \u00b5m.",
+        "Strehl ratio: 0.852"
+      ]
+    },
+    {
+      "kind": "Huygens_PSF",
+      "wave": 5,
+      "field": 1,
+      "pupil": 128,
+      "image": 64,
+      "normalize": false,
+      "centroid": true,
+      "image_delta_setting": 0.0,
+      "file": "D:\\work\\git_share\\Fourier\\results\\uv355_new_design_20260911\\448_same_mf_magnification_psf_mtf\\huygens_psf_w5_f1_p128.txt",
+      "native_summary": [
+        "Data spacing is 0.262 \u00b5m.",
+        "Strehl ratio: 0.941"
+      ]
+    },
+    {
+      "kind": "Huygens_PSF",
+      "wave": 5,
+      "field": 2,
+      "pupil": 128,
+      "image": 64,
+      "normalize": false,
+      "centroid": true,
+      "image_delta_setting": 0.0,
+      "file": "D:\\work\\git_share\\Fourier\\results\\uv355_new_design_20260911\\448_same_mf_magnification_psf_mtf\\huygens_psf_w5_f2_p128.txt",
+      "native_summary": [
+        "Data spacing is 0.262 \u00b5m.",
+        "Strehl ratio: 0.946"
+      ]
+    },
+    {
+      "kind": "Huygens_PSF",
+      "wave": 5,
+      "field": 3,
+      "pupil": 128,
+      "image": 64,
+      "normalize": false,
+      "centroid": true,
+      "image_delta_setting": 0.0,
+      "file": "D:\\work\\git_share\\Fourier\\results\\uv355_new_design_20260911\\448_same_mf_magnification_psf_mtf\\huygens_psf_w5_f3_p128.txt",
+      "native_summary": [
+        "Data spacing is 0.262 \u00b5m.",
+        "Strehl ratio: 0.956"
+      ]
+    },
+    {
+      "kind": "Huygens_PSF",
+      "wave": 5,
+      "field": 4,
+      "pupil": 128,
+      "image": 64,
+      "normalize": false,
+      "centroid": true,
+      "image_delta_setting": 0.0,
+      "file": "D:\\work\\git_share\\Fourier\\results\\uv355_new_design_20260911\\448_same_mf_magnification_psf_mtf\\huygens_psf_w5_f4_p128.txt",
+      "native_summary": [
+        "Data spacing is 0.262 \u00b5m.",
+        "Strehl ratio: 0.956"
+      ]
+    },
+    {
+      "kind": "Huygens_PSF",
+      "wave": 5,
+      "field": 5,
+      "pupil": 128,
+      "image": 64,
+      "normalize": false,
+      "centroid": true,
+      "image_delta_setting": 0.0,
+      "file": "D:\\work\\git_share\\Fourier\\results\\uv355_new_design_20260911\\448_same_mf_magnification_psf_mtf\\huygens_psf_w5_f5_p128.txt",
+      "native_summary": [
+        "Data spacing is 0.262 \u00b5m.",
+        "Strehl ratio: 0.855"
+      ]
+    }
+  ],
+  "final_design_accepted": false,
+  "diagnostic_only": true,
+  "policy": "Stored fields; native unpolarized PSF/MTF. No refocus. Final dense-field and sampling-convergence acceptance remains required.",
+  "fields": [
+    {
+      "number": 1,
+      "x": 0.0,
+      "y": 0.0
+    },
+    {
+      "number": 2,
+      "x": 0.0,
+      "y": 0.375
+    },
+    {
+      "number": 3,
+      "x": 0.0,
+      "y": 0.75
+    },
+    {
+      "number": 4,
+      "x": 0.0,
+      "y": 1.125
+    },
+    {
+      "number": 5,
+      "x": 0.0,
+      "y": 1.5
+    }
+  ],
+  "spectrum": [
+    {
+      "wave": 1,
+      "nm": 355.0,
+      "weight": 1.0
+    },
+    {
+      "wave": 2,
+      "nm": 354.99,
+      "weight": 0.5
+    },
+    {
+      "wave": 3,
+      "nm": 355.01,
+      "weight": 0.5
+    },
+    {
+      "wave": 4,
+      "nm": 354.99,
+      "weight": 0.0625
+    },
+    {
+      "wave": 5,
+      "nm": 355.01,
+      "weight": 0.0625
+    }
+  ],
+  "ray_aiming": "Off",
+  "prescription_unchanged": true,
+  "spectrum_unchanged": true,
+  "source_unchanged": true
+}
