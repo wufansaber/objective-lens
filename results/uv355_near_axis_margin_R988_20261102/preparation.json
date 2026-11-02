@@ -1,0 +1,240 @@
+{
+  "status": "unconditional_native_all_rows_minimum_step_repair_prepared",
+  "source_model": "C:\\codex\\objective-lens-publish\\results\\uv355_regularized_native_corrections_R958_20261102\\UNQUALIFIED_NATIVE_CORRECTION_02.zmx",
+  "source_sha256": "c6b34f61fe93149623e22afce6226f52b5a9a28484022e6b238b77bbef8880ae",
+  "source_review": "C:\\codex\\objective-lens-publish\\results\\uv355_regularized_native_review_R959_20261102\\CANDIDATE_02\\EXTENDED513\\circle_audit.json",
+  "policy": "C:\\codex\\objective-lens-publish\\results\\uv355_user_MTF_visual_focal_policy_R943_20261102\\formal_policy.json",
+  "policy_sha256": "845b9b6f176023448e5d81384cea41986d08dcabf6320b9ae559c7d5ec413626",
+  "original85_all_new_at_this_source": true,
+  "no_previous_source_derivatives_transferred": true,
+  "old_C628_used_for_native_point_identities_only": true,
+  "full945_squared_WFE_Airy_and_order_chain": true,
+  "raw_derivatives_also_saved": true,
+  "MTF_constraints": 0,
+  "MTF_objective_terms": 0,
+  "max_total_SDKs": 4,
+  "pinned_files": [
+    {
+      "path": "C:\\codex\\objective-lens-publish\\results\\uv355_c628_pending_dense_R936_20261102\\BOUNDARY_POINTS.json",
+      "sha256": "46d65e234c54ad0d2cd1469544fa4fe8cbb031e6dad8eef77d77b9b0770951b2"
+    },
+    {
+      "path": "C:\\codex\\objective-lens-publish\\results\\uv355_refreshed_squared_model_R960_20261102\\ACTUAL_FULL513_BASELINE.json",
+      "sha256": "476125d73229b74c6fe2a4d3d76c0ec725cb3087228d06ebc9f3b1a752d6a304"
+    },
+    {
+      "path": "C:\\codex\\objective-lens-publish\\results\\uv355_refreshed_squared_model_R960_20261102\\REFERENCE_SOURCE.json",
+      "sha256": "bab13a312d216be325358e5e9b03a3bdb8fcb2c434badfd26e96453c6831c18d"
+    },
+    {
+      "path": "C:\\codex\\objective-lens-publish\\results\\uv355_regularized_native_corrections_R958_20261102\\UNQUALIFIED_NATIVE_CORRECTION_02.MF",
+      "sha256": "e9e1acd44748d2b653ff022589ef20066b1765b4c35a627bbe97310b354364c4"
+    },
+    {
+      "path": "C:\\codex\\objective-lens-publish\\results\\uv355_regularized_native_corrections_R958_20261102\\UNQUALIFIED_NATIVE_CORRECTION_02.zmx",
+      "sha256": "c6b34f61fe93149623e22afce6226f52b5a9a28484022e6b238b77bbef8880ae"
+    },
+    {
+      "path": "C:\\codex\\objective-lens-publish\\results\\uv355_regularized_native_review_R959_20261102\\CANDIDATE_02\\EXTENDED513\\circle_audit.json",
+      "sha256": "e177105c349450400d8bdc0c6d7d4c48c9b9fdfbf320ab2e8866b8dd72335f3d"
+    },
+    {
+      "path": "C:\\codex\\objective-lens-publish\\results\\uv355_user_MTF_visual_focal_policy_R943_20261102\\formal_policy.json",
+      "sha256": "845b9b6f176023448e5d81384cea41986d08dcabf6320b9ae559c7d5ec413626"
+    },
+    {
+      "path": "C:\\codex\\objective-lens-publish\\scripts\\add_chromatic_merit.py",
+      "sha256": "af6f66fd7b5bc384732cae093f4cd09652b143f659c445e640ccc4ecf47f73b7"
+    },
+    {
+      "path": "C:\\codex\\objective-lens-publish\\scripts\\atomic_progress.py",
+      "sha256": "5ce4bda3cc030e3687e113af64cad48cc5510b379837d859020812c1fc3d07be"
+    },
+    {
+      "path": "C:\\codex\\objective-lens-publish\\scripts\\chromatic_control.py",
+      "sha256": "acfcbaeb2058f41811ecb3a73e82b0429c0ecada726c68f958844a2b5e8cd541"
+    },
+    {
+      "path": "C:\\codex\\objective-lens-publish\\scripts\\collect_uv355_squared_current_R960_20261102.py",
+      "sha256": "8c60fae54f0a9babcbc030b4fc6c978d249f31815f4b9ae18435ba879eb75ed8"
+    },
+    {
+      "path": "C:\\codex\\objective-lens-publish\\scripts\\compiled_batch_bridge.py",
+      "sha256": "418f46478de35f05a83d428e4721f58bcb2b4753de8d509f3b0c49fbf16a4ae4"
+    },
+    {
+      "path": "C:\\codex\\objective-lens-publish\\scripts\\field_continuation_policy_20261012.py",
+      "sha256": "186f26b16f7fbb1c1f1ab4c4d1b6cb04913163fe2ade397103d92de21bd12d65"
+    },
+    {
+      "path": "C:\\codex\\objective-lens-publish\\scripts\\field_stage_4mm.py",
+      "sha256": "bdf2946953d223cd4e0e82a76e054a24668d2e28229e969d122f9a9c6797875a"
+    },
+    {
+      "path": "C:\\codex\\objective-lens-publish\\scripts\\formal_optical_policy.py",
+      "sha256": "9509e634a84a879016c08a2b90cc867993c87a9af49cd3f7835eeecd9f4c3599"
+    },
+    {
+      "path": "C:\\codex\\objective-lens-publish\\scripts\\independent_chromatic_audit.py",
+      "sha256": "97e40f8822ffbc028d5b2f1da6ef102856a480dd4df4a969e8bdfcdac578fcc3"
+    },
+    {
+      "path": "C:\\codex\\objective-lens-publish\\scripts\\inspect_uv355_host_processes_20261020.py",
+      "sha256": "a6298b93689889f1d7a9a6b4df74ad2906dc86dbcc94ce6cf5dff4af10e8a71d"
+    },
+    {
+      "path": "C:\\codex\\objective-lens-publish\\scripts\\measure_uv355_real_chromatic_source_R714_20261101.py",
+      "sha256": "9708051a92466e8e87a6fc615179e3a6ec60fb07da0cd029063d0220d4474266"
+    },
+    {
+      "path": "C:\\codex\\objective-lens-publish\\scripts\\object_telecentric_policy.py",
+      "sha256": "1104030bc11fedfbb41bcade235f3e3dd8d0478649ce33435ce231c53fe0b235"
+    },
+    {
+      "path": "C:\\codex\\objective-lens-publish\\scripts\\optimize_until_stable.py",
+      "sha256": "b9bef0db2c7e4282e73631168ea812b54e235b58badecea3b066a7f628362524"
+    },
+    {
+      "path": "C:\\codex\\objective-lens-publish\\scripts\\physical_prescription_audit.py",
+      "sha256": "2b9fa5f3d33fc3f38a6f49097b4c95dfeb0a08aec19a1b2620e21225422ebeff"
+    },
+    {
+      "path": "C:\\codex\\objective-lens-publish\\scripts\\prepare_uv355_4mm_20261005.py",
+      "sha256": "89abfa78f18a2a106e39bfea3b068c4a9c0126a32f04185cf51ac520dd64e437"
+    },
+    {
+      "path": "C:\\codex\\objective-lens-publish\\scripts\\repair_image_guard.py",
+      "sha256": "f19de1dc8ccf4da99f75cbe8fad09ef31fe535d0bdbb45cb520ba915aad126cb"
+    },
+    {
+      "path": "C:\\codex\\objective-lens-publish\\scripts\\run_uv355_direct_native_hard_geometry_R406_20261101.py",
+      "sha256": "25cb44ebc64e95e94eb638757485fdd86a1a113e1264c071b91e224431098d42"
+    },
+    {
+      "path": "C:\\codex\\objective-lens-publish\\scripts\\run_uv355_fast_hard_geometry_phase_R397_20261101.py",
+      "sha256": "b76fd7e2eebb7f34ac1719b5b3f927cfab27150cb660a2c2d9c0e12358bef013"
+    },
+    {
+      "path": "C:\\codex\\objective-lens-publish\\scripts\\run_uv355_focal_design_R945_20261102.py",
+      "sha256": "b3d128e0931937a3a0eaf1239c49aa628c1d18d635dd161e71c70b23553aa789"
+    },
+    {
+      "path": "C:\\codex\\objective-lens-publish\\scripts\\run_uv355_fourmm_derivatives_recovery_R126_20261028.py",
+      "sha256": "22ff64c1a88afdc8b9f92498c01c31948d82b2187b4ad8050181e1085bebc3f1"
+    },
+    {
+      "path": "C:\\codex\\objective-lens-publish\\scripts\\run_uv355_multistart_campaign.py",
+      "sha256": "58c8e2ef370aa2ada9a7b83f05f72f83428a36d7f214d3113cf23c1beebc514d"
+    },
+    {
+      "path": "C:\\codex\\objective-lens-publish\\scripts\\simplify_mechanical_merit.py",
+      "sha256": "5ebfe3737b3b411afc4f5c6e19dda19435e032e384bb00ac35a54aea7174e145"
+    },
+    {
+      "path": "C:\\codex\\objective-lens-publish\\scripts\\uv355_batched_boundary_and_ordering_R741_20261101.py",
+      "sha256": "5510c7c412501afbac20152531e7c51670134ce3d2a9150b33aa736b4b30ab14"
+    },
+    {
+      "path": "C:\\codex\\objective-lens-publish\\scripts\\uv355_boundary_native_sampler_R492_20261101.py",
+      "sha256": "7b8b3b9dc5d43e7c2c1032dcf580cbd4d7368bf1d966e477ffc0ebca67909f19"
+    },
+    {
+      "path": "C:\\codex\\objective-lens-publish\\scripts\\uv355_direct_native_objective_QP_R405_20261101.py",
+      "sha256": "b1bcb824591aafe5de887e49d5b1520de324c5ff2bcc115509ffd4e8d31d6992"
+    },
+    {
+      "path": "C:\\codex\\objective-lens-publish\\scripts\\uv355_extended_thickness_audit_R351_20261031.py",
+      "sha256": "3884603709a96bf22c6914ed1f8435fd41d0ab77fa45dcc07415f410533973f6"
+    },
+    {
+      "path": "C:\\codex\\objective-lens-publish\\scripts\\uv355_focal_runtime_R944_20261102.py",
+      "sha256": "3591891739436203094200e3201cf12a9cd7469f5e9a69b82f6e8954d7ea883a"
+    },
+    {
+      "path": "C:\\codex\\objective-lens-publish\\scripts\\uv355_gaussian_focus_coordinates_R651_20261101.py",
+      "sha256": "5260e13bc1707727a4a4d681c7900eac1ba557638b6e3bcde2782489352e9d45"
+    },
+    {
+      "path": "C:\\codex\\objective-lens-publish\\scripts\\uv355_hard_geometry_phase_QP_R396_20261101.py",
+      "sha256": "2adc112d9b43b4205e917be866fbfa72f9121866d17cf7a55e93c5f6ebab60dd"
+    },
+    {
+      "path": "C:\\codex\\objective-lens-publish\\scripts\\uv355_height15_merit_revision_20261018.py",
+      "sha256": "c4d12b53fe3a092e6a7e93a564ef552e3a958bdbda26173254dc2957b6cdd27d"
+    },
+    {
+      "path": "C:\\codex\\objective-lens-publish\\scripts\\uv355_optimizer_capacity.py",
+      "sha256": "58b1103a602925e580545de1e292e8f41687d70b1e565128f4ad3254af1bd6c4"
+    },
+    {
+      "path": "C:\\codex\\objective-lens-publish\\scripts\\uv355_optimizer_fifo_20261016.py",
+      "sha256": "99e8c0349ce2a7552c1eede37331b230333736552b856481f677896ed8270a73"
+    },
+    {
+      "path": "C:\\codex\\objective-lens-publish\\scripts\\uv355_orthogonal_asphere_coordinates_R679_20261101.py",
+      "sha256": "ece366ff208bb62ba8409052cde5ad21868f5e59f8fd16ef37397a18fb2abdc2"
+    },
+    {
+      "path": "C:\\codex\\objective-lens-publish\\scripts\\uv355_three_limit_merit_20261017.py",
+      "sha256": "fa3d6368836587c762b1a3232e4f4e10683212ac55cf5771911372ec4b5ba44e"
+    },
+    {
+      "path": "C:\\codex\\objective-lens-publish\\scripts\\uv355_verification_priority.py",
+      "sha256": "bb86a3933e75c4fb8b34685c669bdf2da8c021843015318e87a6c92e26ffe1c4"
+    },
+    {
+      "path": "C:\\codex\\objective-lens-publish\\scripts\\verification_capacity.py",
+      "sha256": "c0c720dffbca0523c60b368bcd380fcf0fae5e0c8712dce85b3831de0aeb35b5"
+    },
+    {
+      "path": "C:\\codex\\objective-lens-publish\\scripts\\wavefront_repair_policy.py",
+      "sha256": "07185e2fdd67327b98032dec13a61cc0f2c7506404a583fe59ad11325c4b7db7"
+    },
+    {
+      "path": "C:\\codex\\objective-lens-publish\\scripts\\zos_probe.py",
+      "sha256": "c5c681587c40f370e1c9ca20d00993afd549da6bce00ababcaec2e1d955d77e1"
+    },
+    {
+      "path": "C:\\codex\\objective-lens-publish\\results\\uv355_refreshed_squared_model_R960_20261102\\FRESH_CURRENT_POLICY_J85.npz",
+      "sha256": "32427674f1ce4d7258967ddfcbe95c98e8da6485aa316c152c9371d8b3918569"
+    },
+    {
+      "path": "C:\\codex\\objective-lens-publish\\results\\uv355_near_axis_design_R981_20261102\\UNQUALIFIED_NATIVE_CORRECTION_01.zmx",
+      "sha256": "f8c5ee3ff396b60942dba1eaa8bf7caa520fbcb376868c2909583bbb2cfd059b"
+    },
+    {
+      "path": "C:\\codex\\objective-lens-publish\\results\\uv355_near_axis_design_R981_20261102\\UNQUALIFIED_NATIVE_CORRECTION_01.MF",
+      "sha256": "e9e1acd44748d2b653ff022589ef20066b1765b4c35a627bbe97310b354364c4"
+    },
+    {
+      "path": "C:\\codex\\objective-lens-publish\\results\\uv355_near_axis_design_R981_20261102\\UNQUALIFIED_NATIVE_CORRECTION_01.npz",
+      "sha256": "d4f029461d2330810d182f44218d60d31bb5b2567e6bfb4337677b088f7583b1"
+    },
+    {
+      "path": "C:\\codex\\objective-lens-publish\\scripts\\run_uv355_phase_bounded_design_R950_20261102.py",
+      "sha256": "c07d870ac253c6e3872a0ee97df266aecc850bfaa56ba17c5180ab22a3d08512"
+    },
+    {
+      "path": "C:\\codex\\objective-lens-publish\\scripts\\continue_uv355_near_axis_margin_R988_20261102.py",
+      "sha256": "d761e95bf48a5c181342350715c88abc551acb86fe80bd1117c7dfdb96add0ca"
+    },
+    {
+      "path": "C:\\codex\\objective-lens-publish\\scripts\\uv355_near_axis_runtime_R980_20261102.py",
+      "sha256": "01a625dc18c2649c6e4b313368205960df5bcd90a6c53dca20b18f7fc6f496fa"
+    }
+  ],
+  "seed_model": "C:\\codex\\objective-lens-publish\\results\\uv355_near_axis_design_R981_20261102\\UNQUALIFIED_NATIVE_CORRECTION_01.zmx",
+  "seed_sha256": "f8c5ee3ff396b60942dba1eaa8bf7caa520fbcb376868c2909583bbb2cfd059b",
+  "initial_LM_search_damping": 50.0,
+  "adaptive_LM_search_damping": true,
+  "maximum_finite_corrections": 20,
+  "cached_derivative_origin_sha256": "c6b34f61fe93149623e22afce6226f52b5a9a28484022e6b238b77bbef8880ae",
+  "all85_fresh_at_initial_source": false,
+  "all_optical_rows_unconditional": true,
+  "minimum_coordinate_repair": true,
+  "image_height_search_margin_um": 0.05,
+  "all85_fresh_at_finite_linearization_poses": false,
+  "local_J_are_approximations": true,
+  "squared_RMS_chain_rule": true,
+  "finite_corrections_not_counted_as_original_successful_interior_rounds": true
+}

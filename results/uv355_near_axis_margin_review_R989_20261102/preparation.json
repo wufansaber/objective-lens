@@ -1,0 +1,9 @@
+{
+  "source_profile": "C:\\codex\\objective-lens-publish\\results\\uv355_near_axis_margin_R988_20261102",
+  "policy": "C:\\codex\\objective-lens-publish\\results\\uv355_user_MTF_visual_focal_policy_R943_20261102\\formal_policy.json",
+  "policy_sha256": "845b9b6f176023448e5d81384cea41986d08dcabf6320b9ae559c7d5ec413626",
+  "MTF_comparison_gates": 0,
+  "native_auditor": "audit_uv355_extended_thickness_R352_20261031.py",
+  "historical_native_checks_reinterpreted_in_separate_R943_reports": true,
+  "no_old_report_overwritten": true
+}

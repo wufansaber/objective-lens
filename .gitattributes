@@ -1,0 +1,10 @@
+key_results/** -text
+results/** -text
+scripts/** -text
+exports/** -text
+*.zip binary
+*.png binary
+*.npz binary
+*.dll binary
+*.zmx binary
+*.MF binary

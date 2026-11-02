@@ -1,0 +1,9 @@
+{
+  "model": "C:\\codex\\objective-lens-publish\\results\\uv355_near_axis_margin_R988_20261102\\UNQUALIFIED_NATIVE_CORRECTION_01.zmx",
+  "sha256": "8052c41f148e285af8521eb922b8bde728ec758d09006b8c9f5721f8dd708366",
+  "curves": "C:\\codex\\objective-lens-publish\\key_results\\FOV_4p0mm\\R943_REVIEWED_8052c41f148e\\NATIVE_POLYCHROMATIC_MTF_CURVES.json",
+  "plot": "C:\\codex\\objective-lens-publish\\key_results\\FOV_4p0mm\\R943_REVIEWED_8052c41f148e\\POLYCHROMATIC_MTF.png",
+  "sampling_stable": true,
+  "validated_sampling": 7,
+  "MTF_used_for_acceptance": false
+}

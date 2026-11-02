@@ -1,0 +1,24 @@
+{
+  "status": "sampled_numerical_design_checks_pass_MTF_user_judgment_pending",
+  "model": "C:\\codex\\objective-lens-publish\\results\\uv355_near_axis_margin_R988_20261102\\UNQUALIFIED_NATIVE_CORRECTION_01.zmx",
+  "source_sha256": "8052c41f148e285af8521eb922b8bde728ec758d09006b8c9f5721f8dd708366",
+  "policy": "C:\\codex\\objective-lens-publish\\results\\uv355_user_MTF_visual_focal_policy_R943_20261102\\formal_policy.json",
+  "policy_sha256": "845b9b6f176023448e5d81384cea41986d08dcabf6320b9ae559c7d5ec413626",
+  "numerical_summary": "C:\\codex\\objective-lens-publish\\key_results\\FOV_4p0mm\\R943_REVIEWED_8052c41f148e\\ACCEPTANCE_SUMMARY.json",
+  "latest_verified_local_repair_profile": "C:\\codex\\objective-lens-publish\\results\\uv355_near_axis_margin_R988_20261102",
+  "original85_squared_RMS_derivative_profile": "C:\\codex\\objective-lens-publish\\results\\uv355_refreshed_squared_model_R960_20261102",
+  "added_near_axis_derivative_profile": "C:\\codex\\objective-lens-publish\\results\\uv355_near_axis_design_R981_20261102",
+  "native_review_profiles": [
+    "C:\\codex\\objective-lens-publish\\results\\uv355_near_axis_margin_review_R989_20261102",
+    "C:\\codex\\objective-lens-publish\\results\\uv355_final_margin_radial65_R990_20261102"
+  ],
+  "fine_axis_report": "C:\\codex\\objective-lens-publish\\results\\uv355_final_fine_axis_R992_20261102\\NEAR_AXIS_ORDERING.json",
+  "exact_source_MTF_profile": "C:\\codex\\objective-lens-publish\\results\\uv355_final_visual_MTF_R991_20261102",
+  "user_task_paused": false,
+  "next_action": "User judges the delivered native MTF curves. Further automatic design needs an improvement objective from this verified prescription; do not rerun exhausted fixed-output repair scripts.",
+  "continuation_constraints": "Keep every geometric/interface/focal/ordering row unconditional; preserve original85/MF8794; no MTF objective or rejection gate; max3 optimizer SDK/max4 total.",
+  "original_stopping_evidence_established": false,
+  "manufacturing_accepted": false,
+  "qualified": false,
+  "full_4mm_design_accepted": false
+}

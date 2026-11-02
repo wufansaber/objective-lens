@@ -1,0 +1,796 @@
+{
+  "status": "incremental_numerical_design_checkpoint",
+  "source_sha256": "8052c41f148e285af8521eb922b8bde728ec758d09006b8c9f5721f8dd708366",
+  "entries": [
+    {
+      "path": "key_results/FOV_4p0mm/R943_REVIEWED_8052c41f148e/ACCEPTANCE_SUMMARY.json",
+      "bytes": 7669,
+      "sha256": "d149dcd9480bec2a890116cb220dd5871e3c836d6ab411d32d7c3d4e437576cd"
+    },
+    {
+      "path": "key_results/FOV_4p0mm/R943_REVIEWED_8052c41f148e/DESIGN_RESULT.md",
+      "bytes": 2096,
+      "sha256": "d8b7266590713dda299b957e8dff09396aed2913a52f9382861010932c4849b7"
+    },
+    {
+      "path": "key_results/FOV_4p0mm/R943_REVIEWED_8052c41f148e/FIELD_DIAGNOSTICS_1025.json",
+      "bytes": 38357,
+      "sha256": "7090da9883f5959aebe40e4b526c593a2c2d6ae4b36325f2fba9806d745e0c14"
+    },
+    {
+      "path": "key_results/FOV_4p0mm/R943_REVIEWED_8052c41f148e/FIELD_DIAGNOSTICS_1025.png",
+      "bytes": 272634,
+      "sha256": "5178f7f25c439c7c3cfae1ba97d3f5f3e074e1dec644e4502687eae6fcc121b2"
+    },
+    {
+      "path": "key_results/FOV_4p0mm/R943_REVIEWED_8052c41f148e/FIELD_DIAGNOSTICS_1025.svg",
+      "bytes": 140449,
+      "sha256": "c08077dbf8d19e1d46a193da82a1daa43e7624fc05f0f96bc9235c06d31ea935"
+    },
+    {
+      "path": "key_results/FOV_4p0mm/R943_REVIEWED_8052c41f148e/FIELD_DIAGNOSTICS_513.json",
+      "bytes": 20016,
+      "sha256": "b072fa3a700210520dc9dd67eb98dcc88b48b0ce1d0ce5abe7d3ad6842eeb072"
+    },
+    {
+      "path": "key_results/FOV_4p0mm/R943_REVIEWED_8052c41f148e/FIELD_DIAGNOSTICS_513.png",
+      "bytes": 270446,
+      "sha256": "beeb4359dbbd11d930e3fd910a12afc6191ad37a010ebc636076558434c655c0"
+    },
+    {
+      "path": "key_results/FOV_4p0mm/R943_REVIEWED_8052c41f148e/FIELD_DIAGNOSTICS_513.svg",
+      "bytes": 130707,
+      "sha256": "114a9b4d91ed518541184c927af5ab9774fa21f65b6c367bcf948b55413528da"
+    },
+    {
+      "path": "key_results/FOV_4p0mm/R943_REVIEWED_8052c41f148e/FINE_AXIS_ORDERING.json",
+      "bytes": 57419,
+      "sha256": "af54e5c4c30255360c1c15d41bcb0cd20bcfdc33b7ae64f8986514f0eb5e9bfd"
+    },
+    {
+      "path": "key_results/FOV_4p0mm/R943_REVIEWED_8052c41f148e/NATIVE_NUMERICAL_PASS_RECEIPT.json",
+      "bytes": 1037,
+      "sha256": "64b4a2bcbd8af3e97adc6aa99342d63d762e2e5191572ae5bb7b9e90ff99dad3"
+    },
+    {
+      "path": "key_results/FOV_4p0mm/R943_REVIEWED_8052c41f148e/NATIVE_POLYCHROMATIC_MTF_CURVES.json",
+      "bytes": 12998,
+      "sha256": "64100c38a38467211bced42d072936861b5e3fe4bf37930b1d046c07f81abd61"
+    },
+    {
+      "path": "key_results/FOV_4p0mm/R943_REVIEWED_8052c41f148e/POLYCHROMATIC_MTF.png",
+      "bytes": 181401,
+      "sha256": "ebaed93d2aca05cfc3ffa83f80e980b90936fc7584fda111abe2dde1f067c04b"
+    },
+    {
+      "path": "key_results/FOV_4p0mm/R943_REVIEWED_8052c41f148e/POLYCHROMATIC_MTF.svg",
+      "bytes": 57740,
+      "sha256": "c2fdae3dca7272f240cb1da4d028d1b4430b5ce3a482668e4fd0ac005d84f2ed"
+    },
+    {
+      "path": "key_results/FOV_4p0mm/R943_REVIEWED_8052c41f148e/prescription.MF",
+      "bytes": 3273896,
+      "sha256": "e9e1acd44748d2b653ff022589ef20066b1765b4c35a627bbe97310b354364c4"
+    },
+    {
+      "path": "key_results/FOV_4p0mm/R943_REVIEWED_8052c41f148e/prescription.npz",
+      "bytes": 62718,
+      "sha256": "bc69a0856a604a7d87ec0ac8b5e1252aaf541194a4313b9619647f070ceb63c6"
+    },
+    {
+      "path": "key_results/FOV_4p0mm/R943_REVIEWED_8052c41f148e/prescription.physical.json",
+      "bytes": 10621,
+      "sha256": "5cc378e8ed91d418608b4223f4343589056388cc64f2e8a7fadbb4a48a354206"
+    },
+    {
+      "path": "key_results/FOV_4p0mm/R943_REVIEWED_8052c41f148e/prescription.zmx",
+      "bytes": 727500,
+      "sha256": "8052c41f148e285af8521eb922b8bde728ec758d09006b8c9f5721f8dd708366"
+    },
+    {
+      "path": "key_results/FOV_4p0mm/R943_REVIEWED_8052c41f148e/PRESCRIPTION_PARAMETERS.json",
+      "bytes": 13740,
+      "sha256": "7d72488d15d0414ac8be6a8a9cef0892a2a14488e36fd7c81f5a333c640aa62a"
+    },
+    {
+      "path": "key_results/FOV_4p0mm/R943_REVIEWED_8052c41f148e/RADIAL65_R943_ACCEPTANCE.json",
+      "bytes": 1598,
+      "sha256": "0d391f63befb7f8568ed1037adee49dac30399c35826c58221c2701fc49cbb52"
+    },
+    {
+      "path": "key_results/FOV_4p0mm/R943_REVIEWED_8052c41f148e/VERIFIED_DESIGN_HANDOFF.json",
+      "bytes": 2102,
+      "sha256": "068199e3c0c9b7e5681984128c8f31ff4469b8ba9e655a62567286dbb5f03dd2"
+    },
+    {
+      "path": "key_results/LATEST_R943_NUMERICAL_CHECKPOINT.json",
+      "bytes": 7669,
+      "sha256": "d149dcd9480bec2a890116cb220dd5871e3c836d6ab411d32d7c3d4e437576cd"
+    },
+    {
+      "path": "key_results/LATEST_R943_REVIEWED.json",
+      "bytes": 8062,
+      "sha256": "f803c11551074988a125be2f7b317226b3f0b41315b01386dcaef35b8e0160ff"
+    },
+    {
+      "path": "key_results/LATEST_R943_VISUAL_MTF.json",
+      "bytes": 574,
+      "sha256": "15871c0a653becddb2f1e95fa4d68a84d4a195b7abfdde3bb71a431ab6781303"
+    },
+    {
+      "path": "results/uv355_c628_pending_dense_R936_20261102/BOUNDARY_POINTS.json",
+      "bytes": 631462,
+      "sha256": "46d65e234c54ad0d2cd1469544fa4fe8cbb031e6dad8eef77d77b9b0770951b2"
+    },
+    {
+      "path": "results/uv355_final_fine_axis_R992_20261102/NEAR_AXIS_ORDERING.json",
+      "bytes": 57419,
+      "sha256": "af54e5c4c30255360c1c15d41bcb0cd20bcfdc33b7ae64f8986514f0eb5e9bfd"
+    },
+    {
+      "path": "results/uv355_final_margin_radial65_R990_20261102/CIRCLE1025/circle_audit.json",
+      "bytes": 6504407,
+      "sha256": "ee45f72a892b2b2f54c6f0d4f729bc79b71b636c160a2e83651a310d6c26d656"
+    },
+    {
+      "path": "results/uv355_final_margin_radial65_R990_20261102/CIRCLE1025/invariants.json",
+      "bytes": 857,
+      "sha256": "8fb24ae0be0bce39e857f490e52e7db6dda023d6e58e1e12fe3ae6951724d926"
+    },
+    {
+      "path": "results/uv355_final_margin_radial65_R990_20261102/CIRCLE1025/physical.json",
+      "bytes": 10872,
+      "sha256": "1745e1bed16aa6b3ac7922808a1d6b23c2262da01558724a3eeef77703e7ade9"
+    },
+    {
+      "path": "results/uv355_final_margin_radial65_R990_20261102/CIRCLE1025/SDK_EMBEDDED_MF_VERIFIED.MF",
+      "bytes": 3273896,
+      "sha256": "e9e1acd44748d2b653ff022589ef20066b1765b4c35a627bbe97310b354364c4"
+    },
+    {
+      "path": "results/uv355_final_margin_radial65_R990_20261102/CIRCLE1025/SDK_EVALUATED_AUTO_APERTURES.MF",
+      "bytes": 3277688,
+      "sha256": "d62fa870928554930d875ef0babf4682e9be3708fcce31b5d2a941164a3e91cd"
+    },
+    {
+      "path": "results/uv355_final_margin_radial65_R990_20261102/CIRCLE1025/SDK_EVALUATED_AUTO_APERTURES.zmx",
+      "bytes": 727500,
+      "sha256": "8052c41f148e285af8521eb922b8bde728ec758d09006b8c9f5721f8dd708366"
+    },
+    {
+      "path": "results/uv355_final_margin_radial65_R990_20261102/progress.json",
+      "bytes": 2109,
+      "sha256": "25324e4f79726a896a5f5aae2dd8f0ab300c333b1929fa4eb4f8b13df8004070"
+    },
+    {
+      "path": "results/uv355_final_margin_radial65_R990_20261102/R943_ACCEPTANCE.json",
+      "bytes": 1359,
+      "sha256": "c101572516acef469915497f7444bf72d008a447b8a469f65b038059b0baf1f9"
+    },
+    {
+      "path": "results/uv355_final_visual_MTF_R991_20261102/NATIVE_POLYCHROMATIC_MTF_CURVES.json",
+      "bytes": 12998,
+      "sha256": "64100c38a38467211bced42d072936861b5e3fe4bf37930b1d046c07f81abd61"
+    },
+    {
+      "path": "results/uv355_final_visual_MTF_R991_20261102/PARTIAL_NATIVE_CURVES.json",
+      "bytes": 10225,
+      "sha256": "df059e0a5737dd9937013c646bd78dbbc14988cbec756f220e4a4c8dcc831618"
+    },
+    {
+      "path": "results/uv355_final_visual_MTF_R991_20261102/POLYCHROMATIC_MTF.png",
+      "bytes": 181401,
+      "sha256": "ebaed93d2aca05cfc3ffa83f80e980b90936fc7584fda111abe2dde1f067c04b"
+    },
+    {
+      "path": "results/uv355_final_visual_MTF_R991_20261102/POLYCHROMATIC_MTF.svg",
+      "bytes": 57740,
+      "sha256": "c2fdae3dca7272f240cb1da4d028d1b4430b5ce3a482668e4fd0ac005d84f2ed"
+    },
+    {
+      "path": "results/uv355_final_visual_MTF_R991_20261102/progress.json",
+      "bytes": 845,
+      "sha256": "fdb3e68641b514b40dfc7cfa1be2e9f1301674148c6099b8a504f6ecf7bea842"
+    },
+    {
+      "path": "results/uv355_height_margin_design_R974_20261102/UNQUALIFIED_NATIVE_CORRECTION_01.MF",
+      "bytes": 3273896,
+      "sha256": "e9e1acd44748d2b653ff022589ef20066b1765b4c35a627bbe97310b354364c4"
+    },
+    {
+      "path": "results/uv355_height_margin_design_R974_20261102/UNQUALIFIED_NATIVE_CORRECTION_01.npz",
+      "bytes": 62718,
+      "sha256": "ab7eeef4651a79dd6162970d770eddfe4c364cb8f0811c15bce1f8c125368695"
+    },
+    {
+      "path": "results/uv355_height_margin_design_R974_20261102/UNQUALIFIED_NATIVE_CORRECTION_01.zmx",
+      "bytes": 727524,
+      "sha256": "1d5e5a49b154117f5747ef13702eba20b4a1cf14bc177b89bb9e272bead3c09e"
+    },
+    {
+      "path": "results/uv355_near_axis_design_R981_20261102/FRESH_ADDED_NEAR_AXIS_J85.npz",
+      "bytes": 4981,
+      "sha256": "6417c1116e713837d43a328baea32a86109c15813d4cd0038be414816c7313b6"
+    },
+    {
+      "path": "results/uv355_near_axis_design_R981_20261102/preparation.json",
+      "bytes": 12595,
+      "sha256": "fbc47e3732b7d4e65c55cd39f8f6ea8b9c44d3ac9e1237e35854ab42a422eb34"
+    },
+    {
+      "path": "results/uv355_near_axis_design_R981_20261102/UNQUALIFIED_NATIVE_CORRECTION_01.MF",
+      "bytes": 3273896,
+      "sha256": "e9e1acd44748d2b653ff022589ef20066b1765b4c35a627bbe97310b354364c4"
+    },
+    {
+      "path": "results/uv355_near_axis_design_R981_20261102/UNQUALIFIED_NATIVE_CORRECTION_01.npz",
+      "bytes": 62718,
+      "sha256": "d4f029461d2330810d182f44218d60d31bb5b2567e6bfb4337677b088f7583b1"
+    },
+    {
+      "path": "results/uv355_near_axis_design_R981_20261102/UNQUALIFIED_NATIVE_CORRECTION_01.zmx",
+      "bytes": 727510,
+      "sha256": "f8c5ee3ff396b60942dba1eaa8bf7caa520fbcb376868c2909583bbb2cfd059b"
+    },
+    {
+      "path": "results/uv355_near_axis_margin_R988_20261102/ACTIVE_DESIGN_HANDOFF_R993_20261102.json",
+      "bytes": 2239,
+      "sha256": "213a609c83eb23112625976e0c01c4621d496bcb7ec98f9ce22ba27835d330cc"
+    },
+    {
+      "path": "results/uv355_near_axis_margin_R988_20261102/APPROXIMATE_LOCAL_J_01.npz",
+      "bytes": 6096395,
+      "sha256": "497fd7781d4251feea5619e35903a330810a0b0f53b78dde1ba74c0dcf488087"
+    },
+    {
+      "path": "results/uv355_near_axis_margin_R988_20261102/COLOR_BASE_01.json",
+      "bytes": 3643,
+      "sha256": "5560fbb1eb6e406bbe1f3c4e517c1afbaa5f09370e48139504e2851001eb22fe"
+    },
+    {
+      "path": "results/uv355_near_axis_margin_R988_20261102/GEOMETRY_CALLBACK_ONLY.zmx",
+      "bytes": 169138,
+      "sha256": "7259589eaeea5fd3b1a30a5ca2a3fefd9b5012a55bfc2e49815e6c5646227181"
+    },
+    {
+      "path": "results/uv355_near_axis_margin_R988_20261102/NATIVE_BATCH_BOUNDARY_388ad39b111d0ff49b8f.MF",
+      "bytes": 1028,
+      "sha256": "752b5ac1d1949aa0a04d9d153e2018b461bd6ad76187223c6e11124c37e733f7"
+    },
+    {
+      "path": "results/uv355_near_axis_margin_R988_20261102/NATIVE_BATCH_BOUNDARY_e5b722c9fe7636eb6c26.MF",
+      "bytes": 208744,
+      "sha256": "b53f438d5be37b27d15686a21eb49450c8bc1bb26a94fb43c8207651c1665a27"
+    },
+    {
+      "path": "results/uv355_near_axis_margin_R988_20261102/NATIVE_CALLBACK_ONLY.MF",
+      "bytes": 119598,
+      "sha256": "4600716f45371318179aed76d4f70aca52452dffaca7ba8fdbf96629e57aca4c"
+    },
+    {
+      "path": "results/uv355_near_axis_margin_R988_20261102/preparation.json",
+      "bytes": 12586,
+      "sha256": "61513a60cfa11d743cd591361b01af6872b6b8f2bd1dfb638f39f8f513522514"
+    },
+    {
+      "path": "results/uv355_near_axis_margin_R988_20261102/progress.json",
+      "bytes": 13034,
+      "sha256": "0ff802346ab2dadeef4d821089221229dad0025d402320136ea10c974a013be3"
+    },
+    {
+      "path": "results/uv355_near_axis_margin_R988_20261102/UNQUALIFIED_NATIVE_CORRECTION_01.MF",
+      "bytes": 3273896,
+      "sha256": "e9e1acd44748d2b653ff022589ef20066b1765b4c35a627bbe97310b354364c4"
+    },
+    {
+      "path": "results/uv355_near_axis_margin_R988_20261102/UNQUALIFIED_NATIVE_CORRECTION_01.npz",
+      "bytes": 62718,
+      "sha256": "bc69a0856a604a7d87ec0ac8b5e1252aaf541194a4313b9619647f070ceb63c6"
+    },
+    {
+      "path": "results/uv355_near_axis_margin_R988_20261102/UNQUALIFIED_NATIVE_CORRECTION_01.physical.json",
+      "bytes": 10621,
+      "sha256": "5cc378e8ed91d418608b4223f4343589056388cc64f2e8a7fadbb4a48a354206"
+    },
+    {
+      "path": "results/uv355_near_axis_margin_R988_20261102/UNQUALIFIED_NATIVE_CORRECTION_01.zmx",
+      "bytes": 727500,
+      "sha256": "8052c41f148e285af8521eb922b8bde728ec758d09006b8c9f5721f8dd708366"
+    },
+    {
+      "path": "results/uv355_near_axis_margin_R988_20261102/WARM_START_APPROXIMATE_J.npz",
+      "bytes": 6096395,
+      "sha256": "996a694fdb4a57a2077eff36b0db595e33249b8fb610c9ce6503c509a08bea16"
+    },
+    {
+      "path": "results/uv355_near_axis_margin_review_R989_20261102/CANDIDATE_01/CIRCLE129/circle_audit.json",
+      "bytes": 809227,
+      "sha256": "abb24115918e386cb9ae421d6f547eb571e9c02012c1e59147eec88d55e9e66e"
+    },
+    {
+      "path": "results/uv355_near_axis_margin_review_R989_20261102/CANDIDATE_01/CIRCLE129/invariants.json",
+      "bytes": 857,
+      "sha256": "8fb24ae0be0bce39e857f490e52e7db6dda023d6e58e1e12fe3ae6951724d926"
+    },
+    {
+      "path": "results/uv355_near_axis_margin_review_R989_20261102/CANDIDATE_01/CIRCLE129/physical.json",
+      "bytes": 10887,
+      "sha256": "0cc4d4f6fcdc19ce908791b3ea149ebedc6e1faabe3f9452f2d3e0f8a5542b6d"
+    },
+    {
+      "path": "results/uv355_near_axis_margin_review_R989_20261102/CANDIDATE_01/CIRCLE129/R943_ACCEPTANCE.json",
+      "bytes": 1612,
+      "sha256": "74ea77033121f62d2644a5ca04328f674cf0fd1087c126bd20ed75b829d3be63"
+    },
+    {
+      "path": "results/uv355_near_axis_margin_review_R989_20261102/CANDIDATE_01/CIRCLE129/SDK_EMBEDDED_MF_VERIFIED.MF",
+      "bytes": 3273896,
+      "sha256": "e9e1acd44748d2b653ff022589ef20066b1765b4c35a627bbe97310b354364c4"
+    },
+    {
+      "path": "results/uv355_near_axis_margin_review_R989_20261102/CANDIDATE_01/CIRCLE129/SDK_EVALUATED_AUTO_APERTURES.MF",
+      "bytes": 3277688,
+      "sha256": "d62fa870928554930d875ef0babf4682e9be3708fcce31b5d2a941164a3e91cd"
+    },
+    {
+      "path": "results/uv355_near_axis_margin_review_R989_20261102/CANDIDATE_01/CIRCLE129/SDK_EVALUATED_AUTO_APERTURES.zmx",
+      "bytes": 727500,
+      "sha256": "8052c41f148e285af8521eb922b8bde728ec758d09006b8c9f5721f8dd708366"
+    },
+    {
+      "path": "results/uv355_near_axis_margin_review_R989_20261102/CANDIDATE_01/COORDINATE_AND_MF_PROOF.json",
+      "bytes": 176,
+      "sha256": "eb866db741f40c359d0e77c4f5de03b3fe43f8615fe07b67586f38b4335b46fa"
+    },
+    {
+      "path": "results/uv355_near_axis_margin_review_R989_20261102/CANDIDATE_01/EXTENDED513/circle_audit.json",
+      "bytes": 3242148,
+      "sha256": "1a53631a0d0ec6ced8264e977b2550d3c2c18b78052ba64b8acee65c6cf19916"
+    },
+    {
+      "path": "results/uv355_near_axis_margin_review_R989_20261102/CANDIDATE_01/EXTENDED513/invariants.json",
+      "bytes": 857,
+      "sha256": "8fb24ae0be0bce39e857f490e52e7db6dda023d6e58e1e12fe3ae6951724d926"
+    },
+    {
+      "path": "results/uv355_near_axis_margin_review_R989_20261102/CANDIDATE_01/EXTENDED513/physical.json",
+      "bytes": 10889,
+      "sha256": "6446aca8a94a8007af2038e456c247307fd643670b33739efae850f5c12ac0c9"
+    },
+    {
+      "path": "results/uv355_near_axis_margin_review_R989_20261102/CANDIDATE_01/EXTENDED513/R943_ACCEPTANCE.json",
+      "bytes": 1615,
+      "sha256": "d3eb886dc2172ab40fee3b92209a879756a7d27db86439b5c8121eae5018cc9a"
+    },
+    {
+      "path": "results/uv355_near_axis_margin_review_R989_20261102/CANDIDATE_01/EXTENDED513/SDK_EMBEDDED_MF_VERIFIED.MF",
+      "bytes": 3273896,
+      "sha256": "e9e1acd44748d2b653ff022589ef20066b1765b4c35a627bbe97310b354364c4"
+    },
+    {
+      "path": "results/uv355_near_axis_margin_review_R989_20261102/CANDIDATE_01/EXTENDED513/SDK_EVALUATED_AUTO_APERTURES.MF",
+      "bytes": 3277688,
+      "sha256": "d62fa870928554930d875ef0babf4682e9be3708fcce31b5d2a941164a3e91cd"
+    },
+    {
+      "path": "results/uv355_near_axis_margin_review_R989_20261102/CANDIDATE_01/EXTENDED513/SDK_EVALUATED_AUTO_APERTURES.zmx",
+      "bytes": 727500,
+      "sha256": "8052c41f148e285af8521eb922b8bde728ec758d09006b8c9f5721f8dd708366"
+    },
+    {
+      "path": "results/uv355_near_axis_margin_review_R989_20261102/CANDIDATE_01/FULL_R943_REVIEW.json",
+      "bytes": 5996,
+      "sha256": "ebc45995a2bc535cdeb0b5eabba4a992802c0af3bb023143192bbe4fb6edc068"
+    },
+    {
+      "path": "results/uv355_near_axis_margin_review_R989_20261102/preparation.json",
+      "bytes": 541,
+      "sha256": "ac8f9359ed208fd34aaba31dd0faba23c84184c5121878a0bdeb1876bf835953"
+    },
+    {
+      "path": "results/uv355_near_axis_margin_review_R989_20261102/progress.json",
+      "bytes": 6955,
+      "sha256": "a4668b7d90801048c082f192f9d0c3b09e02b698189b29503c8aa1cf93c0dd83"
+    },
+    {
+      "path": "results/uv355_radial65_confirmation_R973_20261102/R943_ACCEPTANCE.json",
+      "bytes": 1648,
+      "sha256": "1a356fc006c9b818e06696083ac012a094e6e2ae9998f8fcf5710b1beea7f613"
+    },
+    {
+      "path": "results/uv355_refreshed_squared_model_R960_20261102/ACTUAL_FULL513_BASELINE.json",
+      "bytes": 48590,
+      "sha256": "476125d73229b74c6fe2a4d3d76c0ec725cb3087228d06ebc9f3b1a752d6a304"
+    },
+    {
+      "path": "results/uv355_refreshed_squared_model_R960_20261102/FRESH_CURRENT_POLICY_J85.npz",
+      "bytes": 7509694,
+      "sha256": "32427674f1ce4d7258967ddfcbe95c98e8da6485aa316c152c9371d8b3918569"
+    },
+    {
+      "path": "results/uv355_refreshed_squared_model_R960_20261102/PART_0/BASELINE.npz",
+      "bytes": 134764,
+      "sha256": "da258a4b42b8f4230590aae5093d5f2278275bf2972f9f374e28ae56743bfe0f"
+    },
+    {
+      "path": "results/uv355_refreshed_squared_model_R960_20261102/PART_0/LABELS.json",
+      "bytes": 158569,
+      "sha256": "57093a1e1a986928560e6196d69c84071d7ad1b2cae1e0dfd63184e4788d0e01"
+    },
+    {
+      "path": "results/uv355_refreshed_squared_model_R960_20261102/PART_1/BASELINE.npz",
+      "bytes": 134764,
+      "sha256": "da258a4b42b8f4230590aae5093d5f2278275bf2972f9f374e28ae56743bfe0f"
+    },
+    {
+      "path": "results/uv355_refreshed_squared_model_R960_20261102/PART_1/LABELS.json",
+      "bytes": 158569,
+      "sha256": "57093a1e1a986928560e6196d69c84071d7ad1b2cae1e0dfd63184e4788d0e01"
+    },
+    {
+      "path": "results/uv355_refreshed_squared_model_R960_20261102/PART_2/BASELINE.npz",
+      "bytes": 134764,
+      "sha256": "da258a4b42b8f4230590aae5093d5f2278275bf2972f9f374e28ae56743bfe0f"
+    },
+    {
+      "path": "results/uv355_refreshed_squared_model_R960_20261102/PART_2/LABELS.json",
+      "bytes": 158569,
+      "sha256": "57093a1e1a986928560e6196d69c84071d7ad1b2cae1e0dfd63184e4788d0e01"
+    },
+    {
+      "path": "results/uv355_refreshed_squared_model_R960_20261102/preparation.json",
+      "bytes": 10188,
+      "sha256": "7384706e9b34005bdda97b24281951d6c3d4e8f8492e4e0c3cfe39501d2b3e77"
+    },
+    {
+      "path": "results/uv355_refreshed_squared_model_R960_20261102/REFERENCE_SOURCE.json",
+      "bytes": 6293,
+      "sha256": "bab13a312d216be325358e5e9b03a3bdb8fcb2c434badfd26e96453c6831c18d"
+    },
+    {
+      "path": "results/uv355_regularized_native_corrections_R958_20261102/UNQUALIFIED_NATIVE_CORRECTION_02.MF",
+      "bytes": 3273896,
+      "sha256": "e9e1acd44748d2b653ff022589ef20066b1765b4c35a627bbe97310b354364c4"
+    },
+    {
+      "path": "results/uv355_regularized_native_corrections_R958_20261102/UNQUALIFIED_NATIVE_CORRECTION_02.zmx",
+      "bytes": 727518,
+      "sha256": "c6b34f61fe93149623e22afce6226f52b5a9a28484022e6b238b77bbef8880ae"
+    },
+    {
+      "path": "results/uv355_regularized_native_review_R959_20261102/CANDIDATE_02/EXTENDED513/circle_audit.json",
+      "bytes": 3242997,
+      "sha256": "e177105c349450400d8bdc0c6d7d4c48c9b9fdfbf320ab2e8866b8dd72335f3d"
+    },
+    {
+      "path": "results/uv355_user_MTF_visual_focal_policy_R943_20261102/formal_policy.json",
+      "bytes": 3493,
+      "sha256": "845b9b6f176023448e5d81384cea41986d08dcabf6320b9ae559c7d5ec413626"
+    },
+    {
+      "path": "scripts/add_chromatic_merit.py",
+      "bytes": 3208,
+      "sha256": "af6f66fd7b5bc384732cae093f4cd09652b143f659c445e640ccc4ecf47f73b7"
+    },
+    {
+      "path": "scripts/atomic_progress.py",
+      "bytes": 876,
+      "sha256": "5ce4bda3cc030e3687e113af64cad48cc5510b379837d859020812c1fc3d07be"
+    },
+    {
+      "path": "scripts/audit_uv355_extended_thickness_R352_20261031.py",
+      "bytes": 450,
+      "sha256": "167e06a6997660ad0930287af2b823f62bf0e81561c942ac87f8be693ff712d3"
+    },
+    {
+      "path": "scripts/audit_uv355_field_continuation_20261012.py",
+      "bytes": 16791,
+      "sha256": "9f44143fe00085419e86a079addd1bc8afe35034b6d883c1fd95d87b9adb93e0"
+    },
+    {
+      "path": "scripts/chromatic_control.py",
+      "bytes": 3941,
+      "sha256": "acfcbaeb2058f41811ecb3a73e82b0429c0ecada726c68f958844a2b5e8cd541"
+    },
+    {
+      "path": "scripts/CircularBatchTraceBridge.dll",
+      "bytes": 4096,
+      "sha256": "622da2a79145922ae2ab5088858d5d54c6f9c1fae423a1f6945f8762e4f446b0"
+    },
+    {
+      "path": "scripts/collect_uv355_squared_current_R960_20261102.py",
+      "bytes": 9225,
+      "sha256": "8c60fae54f0a9babcbc030b4fc6c978d249f31815f4b9ae18435ba879eb75ed8"
+    },
+    {
+      "path": "scripts/compiled_batch_bridge.py",
+      "bytes": 1057,
+      "sha256": "418f46478de35f05a83d428e4721f58bcb2b4753de8d509f3b0c49fbf16a4ae4"
+    },
+    {
+      "path": "scripts/continue_uv355_height_margin_R974_20261102.py",
+      "bytes": 16763,
+      "sha256": "6ba33c9e03bafcf0bb2a4ff3ad9e551a5680c5665e8aabb0b8cd30e5c25bfb0d"
+    },
+    {
+      "path": "scripts/continue_uv355_near_axis_margin_R988_20261102.py",
+      "bytes": 17647,
+      "sha256": "d761e95bf48a5c181342350715c88abc551acb86fe80bd1117c7dfdb96add0ca"
+    },
+    {
+      "path": "scripts/continue_uv355_near_axis_R981_20261102.py",
+      "bytes": 18112,
+      "sha256": "1610f14c9991c0050a5b8bb595b9009c30efc1ee75dd1d46e78f6f8cff877063"
+    },
+    {
+      "path": "scripts/continue_uv355_unconditional_repair_R970_20261102.py",
+      "bytes": 16503,
+      "sha256": "f91f8d55819df28d540f2f833f6116d5c3afed0d316bd978f59017c5c574103a"
+    },
+    {
+      "path": "scripts/field_continuation_policy_20261012.py",
+      "bytes": 6426,
+      "sha256": "186f26b16f7fbb1c1f1ab4c4d1b6cb04913163fe2ade397103d92de21bd12d65"
+    },
+    {
+      "path": "scripts/field_stage_4mm.py",
+      "bytes": 2917,
+      "sha256": "bdf2946953d223cd4e0e82a76e054a24668d2e28229e969d122f9a9c6797875a"
+    },
+    {
+      "path": "scripts/formal_optical_policy.py",
+      "bytes": 2402,
+      "sha256": "9509e634a84a879016c08a2b90cc867993c87a9af49cd3f7835eeecd9f4c3599"
+    },
+    {
+      "path": "scripts/independent_chromatic_audit.py",
+      "bytes": 2913,
+      "sha256": "97e40f8822ffbc028d5b2f1da6ef102856a480dd4df4a969e8bdfcdac578fcc3"
+    },
+    {
+      "path": "scripts/inspect_uv355_host_processes_20261020.py",
+      "bytes": 3061,
+      "sha256": "a6298b93689889f1d7a9a6b4df74ad2906dc86dbcc94ce6cf5dff4af10e8a71d"
+    },
+    {
+      "path": "scripts/measure_uv355_key_visual_MTF_curves_R948_20261102.py",
+      "bytes": 490,
+      "sha256": "8338f21b9d3cf73374372ba004156485fc9275db29c0a729479c401e5ee76c20"
+    },
+    {
+      "path": "scripts/measure_uv355_real_chromatic_source_R714_20261101.py",
+      "bytes": 9735,
+      "sha256": "9708051a92466e8e87a6fc615179e3a6ec60fb07da0cd029063d0220d4474266"
+    },
+    {
+      "path": "scripts/measure_uv355_visual_MTF_curves_R947_20261102.py",
+      "bytes": 5879,
+      "sha256": "73c27cdb4fbdbf94f4faea3968904e270d8e3eb2580a253444523f8012eb8fe4"
+    },
+    {
+      "path": "scripts/object_telecentric_policy.py",
+      "bytes": 3225,
+      "sha256": "1104030bc11fedfbb41bcade235f3e3dd8d0478649ce33435ce231c53fe0b235"
+    },
+    {
+      "path": "scripts/optimize_until_stable.py",
+      "bytes": 18911,
+      "sha256": "b9bef0db2c7e4282e73631168ea812b54e235b58badecea3b066a7f628362524"
+    },
+    {
+      "path": "scripts/physical_prescription_audit.py",
+      "bytes": 7801,
+      "sha256": "2b9fa5f3d33fc3f38a6f49097b4c95dfeb0a08aec19a1b2620e21225422ebeff"
+    },
+    {
+      "path": "scripts/plot_uv355_field_diagnostics_R949_20261102.py",
+      "bytes": 2497,
+      "sha256": "185ab94ec5ae08140422b524cc48b4b4c1ff4855b7ad5f2b5693e97488b878fa"
+    },
+    {
+      "path": "scripts/plot_uv355_radial65_diagnostics_R994_20261102.py",
+      "bytes": 427,
+      "sha256": "838107a04cc926f4f0aa0226a029b60a127e50859e2b2440c03c1c8b052c8f41"
+    },
+    {
+      "path": "scripts/prepare_uv355_4mm_20261005.py",
+      "bytes": 17425,
+      "sha256": "89abfa78f18a2a106e39bfea3b068c4a9c0126a32f04185cf51ac520dd64e437"
+    },
+    {
+      "path": "scripts/probe_uv355_fine_axis_R992_20261102.py",
+      "bytes": 3637,
+      "sha256": "2fda852b4b84ad6a70cd4a5650967d791f398c65e838ceda71c7ff5dc99d06b7"
+    },
+    {
+      "path": "scripts/probe_uv355_near_axis_R979_20261102.py",
+      "bytes": 3548,
+      "sha256": "71830bf853ca2f724f4fa1c77a550a283888c493b6b8f62de58a42bcf1a07ff0"
+    },
+    {
+      "path": "scripts/repair_image_guard.py",
+      "bytes": 6761,
+      "sha256": "f19de1dc8ccf4da99f75cbe8fad09ef31fe535d0bdbb45cb520ba915aad126cb"
+    },
+    {
+      "path": "scripts/review_uv355_final_margin_radial65_R990_20261102.py",
+      "bytes": 5270,
+      "sha256": "cebb58949acf42aec47ed2dc2170d1eb185a9e104cbb95368e346f863333c4c1"
+    },
+    {
+      "path": "scripts/review_uv355_final_near_axis_radial65_R983_20261102.py",
+      "bytes": 5273,
+      "sha256": "2de360180001ed5fb1b108b218d18f681f17433bd0b464e3c11fac393fd42b3d"
+    },
+    {
+      "path": "scripts/review_uv355_final_radial65_R977_20261102.py",
+      "bytes": 5267,
+      "sha256": "04a5d2cc22b1895a950bb94fcec430b27f040430680d4e63b9f4abf16fbc20a5"
+    },
+    {
+      "path": "scripts/review_uv355_focal_design_R946_20261102.py",
+      "bytes": 7726,
+      "sha256": "b445ee38bd6e145e534c88887974155fe988952467039ffbfe18ade1d741553f"
+    },
+    {
+      "path": "scripts/review_uv355_height_margin_R975_20261102.py",
+      "bytes": 517,
+      "sha256": "83e4292e2a483f29818fba2ba36eabc2f04b3ceae18701dff01a958390b7a3dd"
+    },
+    {
+      "path": "scripts/review_uv355_near_axis_margin_R989_20261102.py",
+      "bytes": 516,
+      "sha256": "6615ceb194924292a29b57e5aeadc68a1490d4b6a0fbeea9d96fc207e3df21d6"
+    },
+    {
+      "path": "scripts/review_uv355_near_axis_R982_20261102.py",
+      "bytes": 509,
+      "sha256": "da41ba169073d2286848ee086ddc7ff9cf2783b1a82e9ffbc41db3796fdcd6c5"
+    },
+    {
+      "path": "scripts/review_uv355_unconditional_repair_R971_20261102.py",
+      "bytes": 524,
+      "sha256": "4ab42bf0a2dd68e27d41ce352541b781ba41b933f8f83cc852dce438d1cc1e77"
+    },
+    {
+      "path": "scripts/run_uv355_direct_native_hard_geometry_R406_20261101.py",
+      "bytes": 18175,
+      "sha256": "25cb44ebc64e95e94eb638757485fdd86a1a113e1264c071b91e224431098d42"
+    },
+    {
+      "path": "scripts/run_uv355_fast_hard_geometry_phase_R397_20261101.py",
+      "bytes": 19371,
+      "sha256": "b76fd7e2eebb7f34ac1719b5b3f927cfab27150cb660a2c2d9c0e12358bef013"
+    },
+    {
+      "path": "scripts/run_uv355_focal_design_R945_20261102.py",
+      "bytes": 15590,
+      "sha256": "b3d128e0931937a3a0eaf1239c49aa628c1d18d635dd161e71c70b23553aa789"
+    },
+    {
+      "path": "scripts/run_uv355_fourmm_derivatives_recovery_R126_20261028.py",
+      "bytes": 10216,
+      "sha256": "22ff64c1a88afdc8b9f92498c01c31948d82b2187b4ad8050181e1085bebc3f1"
+    },
+    {
+      "path": "scripts/run_uv355_multistart_campaign.py",
+      "bytes": 15938,
+      "sha256": "58c8e2ef370aa2ada9a7b83f05f72f83428a36d7f214d3113cf23c1beebc514d"
+    },
+    {
+      "path": "scripts/run_uv355_phase_bounded_design_R950_20261102.py",
+      "bytes": 7464,
+      "sha256": "c07d870ac253c6e3872a0ee97df266aecc850bfaa56ba17c5180ab22a3d08512"
+    },
+    {
+      "path": "scripts/seal_uv355_numerical_checkpoint_R978_20261102.py",
+      "bytes": 17605,
+      "sha256": "92b40d96d54d48dbbbb82306a8adf59c1f4bcce93269094d81c13cfb6e374e40"
+    },
+    {
+      "path": "scripts/simplify_mechanical_merit.py",
+      "bytes": 8213,
+      "sha256": "5ebfe3737b3b411afc4f5c6e19dda19435e032e384bb00ac35a54aea7174e145"
+    },
+    {
+      "path": "scripts/sync_uv355_numerical_entry_pages_R987_20261102.py",
+      "bytes": 4329,
+      "sha256": "7444a81582ced9e20b3bf7c781290982c8dfb1f3b79781ed6c9ce01735164ceb"
+    },
+    {
+      "path": "scripts/uv355_acceptance_revision_R943_20261102.py",
+      "bytes": 14250,
+      "sha256": "0e8be020bd69cca89cea6abf659d3df48217f86ed036239efd26f78cd4fa5bb8"
+    },
+    {
+      "path": "scripts/uv355_batched_boundary_and_ordering_R741_20261101.py",
+      "bytes": 2999,
+      "sha256": "5510c7c412501afbac20152531e7c51670134ce3d2a9150b33aa736b4b30ab14"
+    },
+    {
+      "path": "scripts/uv355_boundary_native_sampler_R492_20261101.py",
+      "bytes": 1280,
+      "sha256": "7b8b3b9dc5d43e7c2c1032dcf580cbd4d7368bf1d966e477ffc0ebca67909f19"
+    },
+    {
+      "path": "scripts/uv355_direct_native_objective_QP_R405_20261101.py",
+      "bytes": 6689,
+      "sha256": "b1bcb824591aafe5de887e49d5b1520de324c5ff2bcc115509ffd4e8d31d6992"
+    },
+    {
+      "path": "scripts/uv355_extended_thickness_audit_R351_20261031.py",
+      "bytes": 3101,
+      "sha256": "3884603709a96bf22c6914ed1f8435fd41d0ab77fa45dcc07415f410533973f6"
+    },
+    {
+      "path": "scripts/uv355_focal_runtime_R944_20261102.py",
+      "bytes": 8416,
+      "sha256": "3591891739436203094200e3201cf12a9cd7469f5e9a69b82f6e8954d7ea883a"
+    },
+    {
+      "path": "scripts/uv355_gaussian_focus_coordinates_R651_20261101.py",
+      "bytes": 5006,
+      "sha256": "5260e13bc1707727a4a4d681c7900eac1ba557638b6e3bcde2782489352e9d45"
+    },
+    {
+      "path": "scripts/uv355_hard_geometry_phase_QP_R396_20261101.py",
+      "bytes": 4225,
+      "sha256": "2adc112d9b43b4205e917be866fbfa72f9121866d17cf7a55e93c5f6ebab60dd"
+    },
+    {
+      "path": "scripts/uv355_height15_merit_revision_20261018.py",
+      "bytes": 2772,
+      "sha256": "c4d12b53fe3a092e6a7e93a564ef552e3a958bdbda26173254dc2957b6cdd27d"
+    },
+    {
+      "path": "scripts/uv355_near_axis_runtime_R980_20261102.py",
+      "bytes": 1680,
+      "sha256": "01a625dc18c2649c6e4b313368205960df5bcd90a6c53dca20b18f7fc6f496fa"
+    },
+    {
+      "path": "scripts/uv355_optimizer_capacity.py",
+      "bytes": 2530,
+      "sha256": "58b1103a602925e580545de1e292e8f41687d70b1e565128f4ad3254af1bd6c4"
+    },
+    {
+      "path": "scripts/uv355_optimizer_fifo_20261016.py",
+      "bytes": 2136,
+      "sha256": "99e8c0349ce2a7552c1eede37331b230333736552b856481f677896ed8270a73"
+    },
+    {
+      "path": "scripts/uv355_orthogonal_asphere_coordinates_R679_20261101.py",
+      "bytes": 4913,
+      "sha256": "ece366ff208bb62ba8409052cde5ad21868f5e59f8fd16ef37397a18fb2abdc2"
+    },
+    {
+      "path": "scripts/uv355_three_limit_merit_20261017.py",
+      "bytes": 4528,
+      "sha256": "fa3d6368836587c762b1a3232e4f4e10683212ac55cf5771911372ec4b5ba44e"
+    },
+    {
+      "path": "scripts/uv355_verification_priority.py",
+      "bytes": 1924,
+      "sha256": "bb86a3933e75c4fb8b34685c669bdf2da8c021843015318e87a6c92e26ffe1c4"
+    },
+    {
+      "path": "scripts/verification_capacity.py",
+      "bytes": 2195,
+      "sha256": "c0c720dffbca0523c60b368bcd380fcf0fae5e0c8712dce85b3831de0aeb35b5"
+    },
+    {
+      "path": "scripts/wavefront_repair_policy.py",
+      "bytes": 2220,
+      "sha256": "07185e2fdd67327b98032dec13a61cc0f2c7506404a583fe59ad11325c4b7db7"
+    },
+    {
+      "path": "scripts/zos_probe.py",
+      "bytes": 5741,
+      "sha256": "c5c681587c40f370e1c9ca20d00993afd549da6bce00ababcaec2e1d955d77e1"
+    }
+  ],
+  "standalone": false,
+  "required_base_checkpoint": "exports/UV355_USER_PAUSE_20261102_084518/WORKSPACE_CHECKPOINT.zip",
+  "original_base_sha256": "fcfe76e15002c2d88b5a151fcbb5f02024eec8f9b4a54c790a801340bbb91bd3",
+  "qualified": false,
+  "manufacturing_accepted": false
+}

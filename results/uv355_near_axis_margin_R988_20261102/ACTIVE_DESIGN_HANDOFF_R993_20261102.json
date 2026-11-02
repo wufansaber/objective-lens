@@ -1,0 +1,38 @@
+{
+  "status": "final_native_review_and_exact_source_MTF_in_progress",
+  "utc": "2026-11-02T10:36:03.748717+00:00",
+  "active": true,
+  "user_task_paused": false,
+  "current_native_batch_active": true,
+  "user_latest": "\u7ee7\u7eed\u4efb\u52a1\uff0c\u8bbe\u8ba1",
+  "model": "C:\\codex\\objective-lens-publish\\results\\uv355_near_axis_margin_R988_20261102\\UNQUALIFIED_NATIVE_CORRECTION_01.zmx",
+  "source_sha256": "8052c41f148e285af8521eb922b8bde728ec758d09006b8c9f5721f8dd708366",
+  "local_metrics": {
+    "WFE": 0.05494982244198701,
+    "Airy": 0.9985169887244938,
+    "curvature_object_um": 0.28282661428084377,
+    "astigmatism_object_um": 0.34563715907584525,
+    "maximum_height_error_um": 14.949935652181168,
+    "front_mrad": 0.9999466288310255
+  },
+  "design_profile": "C:\\codex\\objective-lens-publish\\results\\uv355_near_axis_margin_R988_20261102",
+  "review_profile": "C:\\codex\\objective-lens-publish\\results\\uv355_near_axis_margin_review_R989_20261102",
+  "additional_review_profile": "C:\\codex\\objective-lens-publish\\results\\uv355_final_margin_radial65_R990_20261102",
+  "visual_MTF_profile": "C:\\codex\\objective-lens-publish\\results\\uv355_final_visual_MTF_R991_20261102",
+  "fine_axis_profile": "C:\\codex\\objective-lens-publish\\results\\uv355_final_fine_axis_R992_20261102",
+  "required_native_grids": [
+    129,
+    513,
+    1025
+  ],
+  "MTF_used_for_optimization_or_acceptance": false,
+  "MTF_visual_judgment_pending": true,
+  "qualified": false,
+  "full_4mm_design_accepted": false,
+  "optimizer_cap": 3,
+  "total_SDK_cap": 4,
+  "safeguard": "Unconditional optical/interface/geometry protection; 0.05um height reserve; positive near-axis spot coefficient reserve; no MTF objective or rejection gate.",
+  "final_seal_script": "C:\\codex\\objective-lens-publish\\scripts\\seal_uv355_numerical_checkpoint_R978_20261102.py",
+  "entry_page_script": "C:\\codex\\objective-lens-publish\\scripts\\sync_uv355_numerical_entry_pages_R987_20261102.py",
+  "next_action": "Wait for exact-source full reviews, fine-axis and stable MTF. If all pass, seal, verify archive, update entry pages and preserve handoff. Do not mark manufacturing or original stopping evidence complete."
+}

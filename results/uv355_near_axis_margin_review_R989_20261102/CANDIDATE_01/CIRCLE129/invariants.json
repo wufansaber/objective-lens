@@ -1,0 +1,29 @@
+{
+  "model": "C:\\codex\\objective-lens-publish\\results\\uv355_near_axis_margin_R988_20261102\\UNQUALIFIED_NATIVE_CORRECTION_01.zmx",
+  "sha256": "8052c41f148e285af8521eb922b8bde728ec758d09006b8c9f5721f8dd708366",
+  "checks": {
+    "FTYP": true,
+    "XFLN": true,
+    "FWGN": true,
+    "VDXN": true,
+    "VDYN": true,
+    "VCXN": true,
+    "VCYN": true,
+    "VANN": true,
+    "WAVM": true,
+    "OBNA": true,
+    "RAIM": true,
+    "GCAT": true,
+    "authorized_field_merit_only": true,
+    "aspheres_original": true,
+    "original_A2": true,
+    "higher_than_A10_zero": true,
+    "materials_original": true,
+    "types_original": true
+  },
+  "static_invariants_pass": true,
+  "object_circle_diameter_mm": 4.0,
+  "full_4mm_design_accepted": false,
+  "intermediate_field_only": false,
+  "original_4mm_hard_limits_unchanged": true
+}

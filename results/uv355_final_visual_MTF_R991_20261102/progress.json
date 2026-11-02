@@ -1,0 +1,18 @@
+{
+  "status": "complete",
+  "active": false,
+  "read_only": true,
+  "pid": 66768,
+  "process_creation_identity": 134380893022313382,
+  "model": "C:\\codex\\objective-lens-publish\\results\\uv355_near_axis_margin_R988_20261102\\UNQUALIFIED_NATIVE_CORRECTION_01.zmx",
+  "sha256": "8052c41f148e285af8521eb922b8bde728ec758d09006b8c9f5721f8dd708366",
+  "MTF_hard_acceptance_requirement": false,
+  "FFT_checks_run": false,
+  "completed_points": 84,
+  "utc": "2026-11-02T10:52:48.803817+00:00",
+  "sampling": 7,
+  "sampling_stable": true,
+  "curve_json": "C:\\codex\\objective-lens-publish\\results\\uv355_final_visual_MTF_R991_20261102\\NATIVE_POLYCHROMATIC_MTF_CURVES.json",
+  "curve_png": "C:\\codex\\objective-lens-publish\\results\\uv355_final_visual_MTF_R991_20261102\\POLYCHROMATIC_MTF.png",
+  "MTF_used_for_acceptance": false
+}

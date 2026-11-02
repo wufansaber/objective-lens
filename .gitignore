@@ -1,0 +1,9 @@
+.conda/
+.package-cache/
+.zos-dependencies/
+__pycache__/
+*.pyc
+.matplotlib-cache/
+.env
+.env.*
+tmp/
