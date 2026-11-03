@@ -1,0 +1,71 @@
+{
+  "scope": "Selected observations supporting the reusable workflow; not an independent ablation study",
+  "controlled_ablation_performed": false,
+  "observations": [
+    {
+      "topic": "combined_direction_derivative_error",
+      "source": "results/uv355_C628_difference_step_R954_20261102/progress.json",
+      "source_sha256": "847fcfa579d0b2f13fa276ccf2b6b3b93fb1682a776d60b86457eacbaa1e389f",
+      "direction": 0,
+      "step": 5e-05,
+      "WFE_relative_error": 0.5103517021395727
+    },
+    {
+      "topic": "between_field_ring_height_overshoot",
+      "source": "results/uv355_radial65_confirmation_R973_20261102/CIRCLE1025/circle_audit.json",
+      "source_sha256": "0aaaa787a87c9877bbd143b8bf1bba272d7ebdbd641aa69f5400cbb140463f88",
+      "model_sha256": "550b23899c00b32755c32e0ff1226543ec5ab4ec6ae11341c25e5950daed5873",
+      "field_count": 1025,
+      "maximum_height_error_um": 15.00167322939916,
+      "radius_normalized": 0.515625,
+      "wave": 3,
+      "formal_limit_um": 15.0
+    },
+    {
+      "topic": "near_axis_ordering_reversal",
+      "source": "results/uv355_near_axis_diagnostic_R979_20261102/NEAR_AXIS_ORDERING.json",
+      "source_sha256": "185ec662d9f166f05725d31f49746d49b6b7a59fc30f4f2d0cac0029c9e79c5d",
+      "model_sha256": "1d5e5a49b154117f5747ef13702eba20b4a1cf14bc177b89bb9e272bead3c09e",
+      "method": "RECT32",
+      "wave": 2,
+      "radius_normalized": 0.015625,
+      "Airy_minus_axis": -1.0124857601767623e-06
+    }
+  ],
+  "final_checkpoint": {
+    "source_sha256": "8052c41f148e285af8521eb922b8bde728ec758d09006b8c9f5721f8dd708366",
+    "field_grids": [
+      129,
+      513,
+      1025
+    ],
+    "summary": {
+      "wfe_worst_waves": 0.05494982244198701,
+      "axis_wfe_worst_waves": 0.03373390740078116,
+      "rms_over_airy_worst": 0.9985169887246526,
+      "field_curvature_object_um": 0.2834114564739408,
+      "astigmatism_object_um": 0.3462893413726798,
+      "maximum_height_error_um": 14.9628121914116,
+      "front_divergence_mrad": 0.9999466288319341,
+      "object_chief_angle_deg": 0.018149505241776442,
+      "image_chief_angle_deg": 0.07295904091550677,
+      "sine_error_um": 97.08739075202686,
+      "efl_mm": 49.92221656998552,
+      "work_clearance_mm": 4.346935461364611,
+      "track_mm": 899.999995134614
+    },
+    "MTF_used_for_acceptance": false,
+    "manufacturing_accepted": false,
+    "original_stopping_evidence_established": false,
+    "global_optimality_proven": false
+  },
+  "final_sine_recheck": {
+    "source_sha256": "8052c41f148e285af8521eb922b8bde728ec758d09006b8c9f5721f8dd708366",
+    "maximum_sine_error_um": 97.08739075203485,
+    "margin_um": 2.9126092479651504,
+    "dense_rings": 128,
+    "dense_azimuths": 256
+  },
+  "transfer_note": "Numerical thresholds, material choices, allowed surface count and original stopping counts are specific to UV355; establish new inputs for other projects.",
+  "source_paths_are_original_workspace_paths": true
+}
