@@ -1,0 +1,254 @@
+{
+  "schema_version": 1,
+  "compiled_date": "2026-11-04",
+  "time_zone": "Asia/Singapore",
+  "scope": "Documentation evidence for this project; not a general algorithm performance guarantee",
+  "full_cross_project_ablation_performed": false,
+  "source_paths_are_original_workspace_relative_paths": true,
+  "complete_intermediate_reports_and_runtime_are_not_part_of_this_documentation_publication": true,
+  "final_candidate": {
+    "model_sha256": "0228a6b1501e513d200872afe53369952357efecb6ac91207353ab3fcefe6d42",
+    "track_mm": 849.99,
+    "reduction_from_900mm_baseline_mm": 50.00999513461397,
+    "independent_summary": {
+      "wfe_worst_waves": 0.05462985202484253,
+      "axis_wfe_worst_waves": 0.03741712654419048,
+      "rms_over_airy_worst": 0.9890800677626019,
+      "field_curvature_image_um": 27.151885954438644,
+      "astigmatism_image_um": 31.566484488053632,
+      "field_curvature_object_um": 0.2727603009030601,
+      "astigmatism_object_um": 0.3171081309733388,
+      "max_individual_focus_shift_image_um": 41.80094037017386,
+      "max_individual_focus_shift_object_um": 0.4199206306527527,
+      "front_divergence_mrad": 0.9995659555547263,
+      "image_chief_angle_deg": 0.079959847202949,
+      "object_chief_angle_deg": 0.01997937505081263,
+      "sine_error_um": 99.95000197492392
+    },
+    "maximum_image_height_error_um": 14.949735096458028,
+    "maximum_dense_sine_error_um": 99.95000197492561,
+    "independent_field_grids": [
+      129,
+      513,
+      1025
+    ],
+    "near_axis_strict_ordering_pass": true,
+    "physical_pass": true,
+    "all_independent_sampled_numerical_checks_pass": true,
+    "working_set_WFE_waves": 0.05440117065101296,
+    "full_qualification": false,
+    "MTF_is_hard_acceptance": false,
+    "MTF_user_judgment_pending": true,
+    "manufacturing_accepted": false,
+    "global_optimality_proven": false,
+    "original_complete_stopping_evidence_established": false
+  },
+  "MTF": {
+    "frequency_space": "native_image_space",
+    "frequencies_lp_mm": [
+      0.0,
+      25.0,
+      50.0,
+      75.0,
+      100.0,
+      125.0,
+      150.0,
+      175.0,
+      200.0
+    ],
+    "validated_sampling": 7,
+    "sampling_stable": true,
+    "maximum_change_from_previous_sampling": 2.4382235709441424e-05
+  },
+  "fixed_comparison_merit": {
+    "initial": 5.390388793731573,
+    "final": 0.030249823552822037,
+    "quality_weight": 0.01,
+    "is_original_8794_row_MF_value": false
+  },
+  "stage_merits": {
+    "feasibility_quality_weight": 0.0001,
+    "final_margin_targets_are_additional_search_terms": true,
+    "do_not_compare_scores_with_different_definitions": true,
+    "feasibility_tradeoff_fixed_merit_before": 0.02799917038977506,
+    "feasibility_tradeoff_fixed_merit_after": 0.030157106850309853
+  },
+  "groups": {
+    "baseline900": {
+      "wave_index": 1,
+      "groups_EFL_mm": {
+        "front5": 30.749553900429778,
+        "middle6": 7557.408178767565,
+        "front_middle11": 49.92221670500778,
+        "tube5": 498.42919875712806
+      },
+      "tube_over_front_middle_ratio": 9.98411592382535
+    },
+    "compact850": {
+      "wave_index": 1,
+      "groups_EFL_mm": {
+        "front5": 30.72876509625314,
+        "middle6": 4058.5661179996637,
+        "front_middle11": 47.966852333165086,
+        "tube5": 479.52621417030775
+      },
+      "tube_over_front_middle_ratio": 9.997033176987419
+    }
+  },
+  "local_step_benchmark": {
+    "source_sha256": "d1c99220349e499dabafee1ec173bfbbae5d81c8977a976dc5a9a927b19cce21",
+    "baseline_objective": 3.7996807141962297,
+    "shared_derivative_setup_excluded": true,
+    "single_pose_only": true,
+    "methods": [
+      {
+        "method": "linear",
+        "method_wall_seconds": 32.09400000004098,
+        "native_evaluations": 7,
+        "fraction": 0.0625,
+        "objective": 3.782843467386931,
+        "reduction": 0.016837246809298545,
+        "retained_working_step": true
+      },
+      {
+        "method": "squared_RMS_conic",
+        "method_wall_seconds": 14.311999999976251,
+        "native_evaluations": 3,
+        "fraction": 1.0,
+        "objective": 3.6597516905760643,
+        "reduction": 0.13992902362016535,
+        "retained_working_step": true
+      }
+    ]
+  },
+  "conservative_cone_benchmark": {
+    "source_sha256": "14d575ef5dc8bbf8b132f6149a16da940383b9f626bf64daa7d9bec68289b05d",
+    "reference": {
+      "solver_status": "Solved",
+      "radius": 0.05,
+      "damping": 0.05,
+      "predicted_objective": 0.1070690832421188,
+      "predicted_worst_violation": 0.06617138748108853,
+      "solver_seconds": 14.686999999976251,
+      "native_squared_RMS_cones": 330,
+      "interface_ray_norm_cones": 402,
+      "all_current_optical_rows": 1934,
+      "all_physical_rows": 115,
+      "fixed_track_mm": 849.99,
+      "front_middle_EFL_free": true,
+      "MTF_terms": 0,
+      "local_RMS_curvature_is_approximate": true,
+      "solver_tolerance": 7.787849494841503e-08,
+      "optimization_only_S3_and_S12_reserve_mm": 0.005
+    },
+    "compressed": {
+      "solver_status": "Solved",
+      "radius": 0.05,
+      "damping": 0.05,
+      "predicted_objective": 0.1070691833662075,
+      "predicted_worst_violation": 0.06617149559108303,
+      "solver_seconds": 3.922000000020489,
+      "native_squared_RMS_cones": 330,
+      "interface_ray_norm_cones": 402,
+      "all_current_optical_rows": 1934,
+      "all_physical_rows": 115,
+      "fixed_track_mm": 849.99,
+      "front_middle_EFL_free": true,
+      "MTF_terms": 0,
+      "local_RMS_curvature_is_approximate": true,
+      "solver_tolerance": 7.787849494841503e-08,
+      "optimization_only_S3_and_S12_reserve_mm": 0.005,
+      "compressed_RMS_rank_min": 7,
+      "compressed_RMS_rank_max": 36,
+      "compressed_RMS_rank_median": 23.0,
+      "discarded_component_box_bound_max": 4.5754934385458976e-05,
+      "compression_is_conservative_for_all_box_feasible_steps": true
+    },
+    "step_difference_norm": 1.5532448418695714e-06,
+    "reference_actual_objective": 0.11416084576927363,
+    "compressed_actual_objective": 0.11416053476079566,
+    "reference_physical_pass": false,
+    "compressed_physical_pass": false,
+    "neither_nominal_full_step_retained": true,
+    "solver_time_ratio": 3.744773074936136,
+    "ratio_scope": "Conic subproblem solve only, not total design runtime"
+  },
+  "signed_vector_validation": {
+    "source_sha256": "e4f32829f63e0f84dc9b0344b237223efdaa01448995072508714e339aae5a2b",
+    "groups": 99,
+    "reference_basis": "image direction cosines",
+    "correct_reference_WFE_error": {
+      "max_WFE_abs_error": 6.17528742030693e-09,
+      "median_abs_error": 8.195810696776107e-10,
+      "maximum_RMS": 0.19801053944142286
+    },
+    "incorrect_normalized_pupil_projection": {
+      "max_WFE_abs_error": 0.061875491722296366,
+      "median_abs_error": 0.017744674261715776,
+      "maximum_RMS": 0.25794674881469326
+    },
+    "incorrect_image_slope_projection": {
+      "max_WFE_abs_error": 0.0004932084025228711,
+      "median_abs_error": 0.0002680486126432069,
+      "maximum_RMS": 0.19808259843138615
+    },
+    "signed_evaluation_seconds": [
+      0.5780000000377186,
+      0.5619999999762513,
+      0.5939999999827705
+    ],
+    "comparison_full_native_seconds": 4.562999999965541,
+    "evaluation_scopes_differ": true,
+    "not_an_overall_optimizer_speed_ratio": true
+  },
+  "nearaxis_rectangular_validation": {
+    "size": 64,
+    "midpoint": true,
+    "ray_count": 3228,
+    "max_Airy_error": 8.881784197001252e-16,
+    "max_coefficient_error": 6.661338147750939e-09,
+    "seconds": 0.4529999999795109
+  },
+  "sources": [
+    {
+      "original_workspace_relative_path": "key_results/FOV_4p0mm/COMPACT_850_R1008_0228a6b1501e/NUMERICAL_RESULT.json",
+      "sha256": "c5cb26722c2bc81ebf8137a8dd01ce81b01b6dc0615f813b3f9a9a5b5fcb8ee0"
+    },
+    {
+      "original_workspace_relative_path": "results/uv355_compact_independent_R1138_20261104/progress.json",
+      "sha256": "d4c0904ed9dd034ebdf15dc015e2c9cc41e808d792bdfbdae3b990492587a988"
+    },
+    {
+      "original_workspace_relative_path": "results/uv355_compact_independent_R1138_20261104/MTF_CURVES/NATIVE_POLYCHROMATIC_MTF_CURVES.json",
+      "sha256": "353ed063d763995788ad1e5092b40b90a0f4f7e1bc508785cba2eb4e5ca1c920"
+    },
+    {
+      "original_workspace_relative_path": "results/uv355_same_step_benchmark_R1073_20261104/progress.json",
+      "sha256": "905f08df4937a3a8a92a3b93ec810f59a4812f524c53a9b735ffa605c32387a3"
+    },
+    {
+      "original_workspace_relative_path": "results/uv355_complete_refresh_conic_R1113_20261104/CONIC_COMPRESSION_SAME_POSE.json",
+      "sha256": "cee5415fec661d228184c2d589d6e635f78fbf34d8dc7e0cca69f70a25e49bcb"
+    },
+    {
+      "original_workspace_relative_path": "results/uv355_signed_ray_reference_R1095_20261104/progress.json",
+      "sha256": "6a9c9af98b1f32476bd39c4cdcc50421106699df65232f0a1e707d722fc780b2"
+    },
+    {
+      "original_workspace_relative_path": "results/uv355_nearaxis_grid_R1121_20261104/progress.json",
+      "sha256": "ba55fb88a38251cd3f5661861a45609711460d256b38dc452c7e32e590cd3abc"
+    },
+    {
+      "original_workspace_relative_path": "results/uv355_efficiency_monitor_R1063_20261104/FINAL_GROUP_POWERS.json",
+      "sha256": "41380e88225e80dc057e8fa957a3d7091acc92f1911848c6a1ed54436d836166"
+    },
+    {
+      "original_workspace_relative_path": "results/uv355_group_powers_R1007_20261104/RUN02/GROUP_POWER_ANALYSIS.json",
+      "sha256": "d61e48f1d8c4b154b3e3429e8b690fb5d91034cfb3ae79bf4ff786813001005a"
+    },
+    {
+      "original_workspace_relative_path": "docs/UV355_OPTIMIZATION_LESSONS_EVIDENCE.json",
+      "sha256": "f8beae6d26e99c8b2b39712373a57311447f17910728e0c6b05bbb1f559f161d"
+    }
+  ]
+}
