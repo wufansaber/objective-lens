@@ -1,0 +1,10 @@
+CC 266 nm design. HPFS coefficients from Corning; CaF2 exact single design index at 22 C.
+NM HPFS7980 2 0 1.458461 67.8
+CD .683740494 .00460352869 .420323613 .01339688560 .585027480 64.4932732
+TD 0 0 0 0 0 0 22
+LD .185 1.12895
+NM CAF2_266 1 0 1.43384 95.22
+GC Corning OptiGrade 25C four-term Sellmeier evaluated at 266 nm, corrected to 22C; monochromatic entry.
+CD 2.1376901733348816 0 0 0 0 0
+TD 0 0 0 0 0 0 22
+LD .265999999 .266000001

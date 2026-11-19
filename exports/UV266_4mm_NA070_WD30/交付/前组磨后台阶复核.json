@@ -1,0 +1,148 @@
+{
+  "source_sha256": "25262fb45b4cd6912709610f93052027d3ad1964ea09f5cabd3cc3cc47903665",
+  "glass": [
+    {
+      "channel": 0,
+      "lens": 2,
+      "shape": "possible_aspheric_meniscus",
+      "min_thickness_mm": 6.289804224817343,
+      "face_distance_lower_mm": 6.263512236606166,
+      "minimum_face_mm": 6.0488,
+      "minimum_radial_mm": 4.05,
+      "cut_into_reserved_pupil_mm": 0.0,
+      "edge_mm": 6.303595411340794,
+      "center_mm": 27.82141275271566
+    },
+    {
+      "channel": 0,
+      "lens": 3,
+      "shape": "possible_aspheric_meniscus",
+      "min_thickness_mm": 6.545355525591046,
+      "face_distance_lower_mm": 6.544065769536587,
+      "minimum_face_mm": 6.0488,
+      "minimum_radial_mm": 4.05,
+      "cut_into_reserved_pupil_mm": 0.0,
+      "edge_mm": 6.610253196360134,
+      "center_mm": 19.447847616756988
+    },
+    {
+      "channel": 0,
+      "lens": 4,
+      "shape": "possible_aspheric_meniscus",
+      "min_thickness_mm": 6.833391642747329,
+      "face_distance_lower_mm": 6.827360275312708,
+      "minimum_face_mm": 5.654,
+      "minimum_radial_mm": 4.05,
+      "cut_into_reserved_pupil_mm": 0.0,
+      "edge_mm": 6.846275187669207,
+      "center_mm": 16.117038367019504
+    },
+    {
+      "channel": 0,
+      "lens": 5,
+      "shape": "possible_aspheric_meniscus",
+      "min_thickness_mm": 9.19658921883895,
+      "face_distance_lower_mm": 9.195469486637238,
+      "minimum_face_mm": 5.257999999999999,
+      "minimum_radial_mm": 4.05,
+      "cut_into_reserved_pupil_mm": 0.0,
+      "edge_mm": 20.901888763007634,
+      "center_mm": 9.208562363370206
+    },
+    {
+      "channel": 2,
+      "lens": 2,
+      "shape": "possible_aspheric_meniscus",
+      "min_thickness_mm": 6.289804224817343,
+      "face_distance_lower_mm": 6.263512236606166,
+      "minimum_face_mm": 6.0488,
+      "minimum_radial_mm": 4.05,
+      "cut_into_reserved_pupil_mm": 0.0,
+      "edge_mm": 6.303595411340794,
+      "center_mm": 27.82141275271566
+    },
+    {
+      "channel": 2,
+      "lens": 3,
+      "shape": "possible_aspheric_meniscus",
+      "min_thickness_mm": 6.545355525591046,
+      "face_distance_lower_mm": 6.544065769536587,
+      "minimum_face_mm": 6.0488,
+      "minimum_radial_mm": 4.05,
+      "cut_into_reserved_pupil_mm": 0.0,
+      "edge_mm": 6.610253196360134,
+      "center_mm": 19.447847616756988
+    },
+    {
+      "channel": 2,
+      "lens": 4,
+      "shape": "possible_aspheric_meniscus",
+      "min_thickness_mm": 6.833391642747329,
+      "face_distance_lower_mm": 6.827360275312708,
+      "minimum_face_mm": 5.654,
+      "minimum_radial_mm": 4.05,
+      "cut_into_reserved_pupil_mm": 0.0,
+      "edge_mm": 6.846275187669207,
+      "center_mm": 16.117038367019504
+    },
+    {
+      "channel": 2,
+      "lens": 5,
+      "shape": "possible_aspheric_meniscus",
+      "min_thickness_mm": 9.19658921883895,
+      "face_distance_lower_mm": 9.195469486637238,
+      "minimum_face_mm": 5.257999999999999,
+      "minimum_radial_mm": 4.05,
+      "cut_into_reserved_pupil_mm": 0.0,
+      "edge_mm": 20.901888763007634,
+      "center_mm": 9.208562363370206
+    }
+  ],
+  "ordinary_gaps": [
+    {
+      "channel": 0,
+      "left": 2,
+      "common_min_mm": 0.3314995951706945,
+      "common_max_mm": 20.619987256262423,
+      "contact_length_mm": 20.326699231656313
+    },
+    {
+      "channel": 0,
+      "left": 3,
+      "common_min_mm": 0.4029053743750543,
+      "common_max_mm": 22.33527032092692,
+      "contact_length_mm": 22.103372117038646
+    },
+    {
+      "channel": 0,
+      "left": 4,
+      "common_min_mm": 5.276349577431677,
+      "common_max_mm": 6.293225715668807,
+      "contact_length_mm": 6.095738585646913
+    },
+    {
+      "channel": 2,
+      "left": 2,
+      "common_min_mm": 0.3314995951706945,
+      "common_max_mm": 20.619987256262423,
+      "contact_length_mm": 20.326699231656313
+    },
+    {
+      "channel": 2,
+      "left": 3,
+      "common_min_mm": 0.4029053743750543,
+      "common_max_mm": 22.33527032092692,
+      "contact_length_mm": 22.103372117038646
+    },
+    {
+      "channel": 2,
+      "left": 4,
+      "common_min_mm": 5.276349577431677,
+      "common_max_mm": 6.293225715668807,
+      "contact_length_mm": 6.095738585646913
+    }
+  ],
+  "failures": [],
+  "passed": true,
+  "definition": "Finite coplanar contact sectors. Radial and angular runout follows a rounded 2.20 slope into the parent stock; maximum-removal all-azimuth overbound for true inter-face separation."
+}

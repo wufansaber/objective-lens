@@ -1,0 +1,539 @@
+{
+  "all_spherical": false,
+  "defaults": {
+    "air_gap_budget_mm": 0.03,
+    "center_thickness_budget_mm": 0.05,
+    "maximum_diameter_mm": 100.0,
+    "maximum_surface_slope": 2.26,
+    "minimum_air_gap_mm": 0.3,
+    "minimum_rim_gap_mm": 0.3,
+    "radial_thickness_budget_mm": 0.05,
+    "rim_gap_budget_mm": 0.03
+  },
+  "extended_edges": {
+    "additional_common_groups": [
+      {
+        "diameter_mm": 73.3,
+        "lenses": [
+          8,
+          9,
+          10
+        ]
+      }
+    ],
+    "clear_reserve_mm": 0.25,
+    "common_diameter_mm": 84.0,
+    "lands": {
+      "13": {
+        "bevel_start_mm": 42.150000000000006,
+        "blend_start_mm": 38.14856721710162,
+        "flat_start_mm": 38.265,
+        "plane_z_mm": 210.73711451418302,
+        "transition": "smoothstep"
+      },
+      "14": {
+        "bevel_start_mm": 39.400000000000006,
+        "blend_start_mm": 37.812881693543964,
+        "flat_start_mm": 37.895,
+        "plane_z_mm": 212.1932204646708,
+        "transition": "smoothstep"
+      },
+      "15": {
+        "bevel_start_mm": 39.400000000000006,
+        "blend_start_mm": 33.7133378980742,
+        "flat_start_mm": 35.214999999999996,
+        "plane_z_mm": 236.18002211976594,
+        "transition": "tangent_ramp"
+      },
+      "16": {
+        "bevel_start_mm": 36.35,
+        "blend_start_mm": 34.716815340769564,
+        "flat_start_mm": 34.845,
+        "plane_z_mm": 253.89550422254598,
+        "transition": "smoothstep"
+      },
+      "17": {
+        "bevel_start_mm": 36.35,
+        "blend_start_mm": 34.7664567939741,
+        "flat_start_mm": 34.845,
+        "plane_z_mm": 279.9550509199335,
+        "transition": "smoothstep"
+      },
+      "18": {
+        "bevel_start_mm": 36.35,
+        "blend_start_mm": 34.76782287195644,
+        "flat_start_mm": 34.845,
+        "plane_z_mm": 286.74096190629325,
+        "transition": "smoothstep"
+      },
+      "19": {
+        "bevel_start_mm": 36.35,
+        "blend_start_mm": 34.762978018079664,
+        "flat_start_mm": 34.845,
+        "plane_z_mm": 314.3558395073192,
+        "transition": "smoothstep"
+      },
+      "20": {
+        "bevel_start_mm": 36.35,
+        "blend_start_mm": 34.77396183835946,
+        "flat_start_mm": 34.845,
+        "plane_z_mm": 319.6488221991645,
+        "transition": "smoothstep"
+      },
+      "21": {
+        "bevel_start_mm": 36.35,
+        "blend_start_mm": 32.4433045798847,
+        "flat_start_mm": 34.845,
+        "plane_z_mm": 329.1443967572339,
+        "transition": "tangent_ramp"
+      },
+      "22": {
+        "bevel_start_mm": 37.6,
+        "blend_start_mm": 35.17392403788379,
+        "flat_start_mm": 35.214999999999996,
+        "plane_z_mm": 345.62856147997525,
+        "transition": "smoothstep"
+      },
+      "23": {
+        "bevel_start_mm": 37.6,
+        "blend_start_mm": 34.92421515869276,
+        "flat_start_mm": 36.095,
+        "plane_z_mm": 352.20522570777973,
+        "transition": "tangent_ramp"
+      },
+      "24": {
+        "bevel_start_mm": 41.7,
+        "blend_start_mm": 39.42873913890906,
+        "flat_start_mm": 40.195,
+        "plane_z_mm": 400.0125305632877,
+        "transition": "smoothstep"
+      },
+      "25": {
+        "bevel_start_mm": 41.7,
+        "blend_start_mm": 39.50820971558788,
+        "flat_start_mm": 40.195,
+        "plane_z_mm": 412.48656062804173,
+        "transition": "smoothstep"
+      },
+      "26": {
+        "bevel_start_mm": 41.7,
+        "blend_start_mm": 38.92411513807813,
+        "flat_start_mm": 40.195,
+        "plane_z_mm": 431.14836956846017,
+        "transition": "tangent_ramp"
+      },
+      "27": {
+        "bevel_start_mm": 41.7,
+        "blend_start_mm": 40.0996798375402,
+        "flat_start_mm": 40.195,
+        "plane_z_mm": 458.917560446805,
+        "transition": "smoothstep"
+      },
+      "28": {
+        "bevel_start_mm": 41.7,
+        "blend_start_mm": 40.06941343490652,
+        "flat_start_mm": 40.195,
+        "plane_z_mm": 462.6951590624725,
+        "transition": "smoothstep"
+      },
+      "29": {
+        "bevel_start_mm": 41.7,
+        "blend_start_mm": 40.086572305761585,
+        "flat_start_mm": 40.195,
+        "plane_z_mm": 489.8389274656379,
+        "transition": "smoothstep"
+      },
+      "30": {
+        "bevel_start_mm": 41.7,
+        "blend_start_mm": 40.15066679415672,
+        "flat_start_mm": 40.195,
+        "plane_z_mm": 492.9619626406723,
+        "transition": "smoothstep"
+      },
+      "31": {
+        "bevel_start_mm": 41.7,
+        "blend_start_mm": 38.966774261316466,
+        "flat_start_mm": 40.195,
+        "plane_z_mm": 521.875929679269,
+        "transition": "tangent_ramp"
+      },
+      "32": {
+        "bevel_start_mm": 41.7,
+        "blend_start_mm": 39.42993170547075,
+        "flat_start_mm": 40.195,
+        "plane_z_mm": 547.1021415415815,
+        "transition": "smoothstep"
+      },
+      "33": {
+        "bevel_start_mm": 41.7,
+        "blend_start_mm": 40.1517157603262,
+        "flat_start_mm": 40.195,
+        "plane_z_mm": 552.9957084232863,
+        "transition": "smoothstep"
+      }
+    },
+    "maximum_edge_mm": 30.0,
+    "minimum_platform_mm": 1.5,
+    "thickness_budget_mm": 0.05,
+    "tube_lenses": [
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  "lenses": [
+    {
+      "front_surface": 1,
+      "minimum_center_thickness_mm": 5.0,
+      "minimum_clear_to_mechanical_radial_margin_mm": 0.8,
+      "minimum_radial_thickness_mm": 3.0,
+      "rear_surface": 2
+    },
+    {
+      "front_surface": 3,
+      "minimum_center_thickness_mm": 6.5,
+      "minimum_clear_to_mechanical_radial_margin_mm": 1.0,
+      "minimum_radial_thickness_mm": 4.0,
+      "rear_surface": 4
+    },
+    {
+      "front_surface": 5,
+      "minimum_center_thickness_mm": 6.5,
+      "minimum_clear_to_mechanical_radial_margin_mm": 1.0,
+      "minimum_radial_thickness_mm": 4.0,
+      "rear_surface": 6
+    },
+    {
+      "front_surface": 7,
+      "minimum_center_thickness_mm": 8.211201597058801,
+      "minimum_clear_to_mechanical_radial_margin_mm": 1.0,
+      "minimum_radial_thickness_mm": 4.0,
+      "rear_surface": 8
+    },
+    {
+      "front_surface": 9,
+      "minimum_center_thickness_mm": 8.242408514219004,
+      "minimum_clear_to_mechanical_radial_margin_mm": 1.0,
+      "minimum_radial_thickness_mm": 4.0,
+      "rear_surface": 10
+    },
+    {
+      "front_surface": 12,
+      "minimum_center_thickness_mm": 6.5,
+      "minimum_clear_to_mechanical_radial_margin_mm": 1.0,
+      "minimum_radial_thickness_mm": 4.0,
+      "rear_surface": 13
+    },
+    {
+      "front_surface": 14,
+      "minimum_center_thickness_mm": 7.65,
+      "minimum_clear_to_mechanical_radial_margin_mm": 1.0,
+      "minimum_radial_thickness_mm": 3.0,
+      "rear_surface": 15
+    },
+    {
+      "front_surface": 16,
+      "minimum_center_thickness_mm": 5.0,
+      "minimum_clear_to_mechanical_radial_margin_mm": 1.0,
+      "minimum_radial_thickness_mm": 3.0,
+      "rear_surface": 17
+    },
+    {
+      "front_surface": 18,
+      "minimum_center_thickness_mm": 5.0,
+      "minimum_clear_to_mechanical_radial_margin_mm": 1.0,
+      "minimum_radial_thickness_mm": 3.0,
+      "rear_surface": 19
+    },
+    {
+      "front_surface": 20,
+      "minimum_center_thickness_mm": 7.137308895032845,
+      "minimum_clear_to_mechanical_radial_margin_mm": 1.0,
+      "minimum_radial_thickness_mm": 3.0,
+      "rear_surface": 21
+    },
+    {
+      "front_surface": 22,
+      "minimum_center_thickness_mm": 7.244172827331979,
+      "minimum_clear_to_mechanical_radial_margin_mm": 1.0,
+      "minimum_radial_thickness_mm": 3.0,
+      "rear_surface": 23
+    },
+    {
+      "front_surface": 24,
+      "minimum_center_thickness_mm": 6.5,
+      "minimum_clear_to_mechanical_radial_margin_mm": 1.0,
+      "minimum_radial_thickness_mm": 4.0,
+      "rear_surface": 25
+    },
+    {
+      "front_surface": 26,
+      "minimum_center_thickness_mm": 8.4,
+      "minimum_clear_to_mechanical_radial_margin_mm": 1.0,
+      "minimum_radial_thickness_mm": 4.0,
+      "rear_surface": 27
+    },
+    {
+      "front_surface": 28,
+      "minimum_center_thickness_mm": 6.5,
+      "minimum_clear_to_mechanical_radial_margin_mm": 1.0,
+      "minimum_radial_thickness_mm": 4.0,
+      "rear_surface": 29
+    },
+    {
+      "front_surface": 30,
+      "minimum_center_thickness_mm": 8.4,
+      "minimum_clear_to_mechanical_radial_margin_mm": 1.0,
+      "minimum_radial_thickness_mm": 4.0,
+      "rear_surface": 31
+    },
+    {
+      "front_surface": 32,
+      "minimum_center_thickness_mm": 8.4,
+      "minimum_clear_to_mechanical_radial_margin_mm": 1.0,
+      "minimum_radial_thickness_mm": 4.0,
+      "rear_surface": 33
+    }
+  ],
+  "meniscus": {
+    "edge_thickness_budget_mm": 0.05,
+    "face_distance_budget_mm": 0.05,
+    "maximum_center_thickness_mm": 30.0,
+    "minimum_center_to_diameter_ratio": 0.1,
+    "minimum_edge_thickness_mm": 1.8,
+    "minimum_face_distance_mm": 1.8,
+    "minimum_face_to_diameter_ratio": 0.06
+  },
+  "policy_id": "CH0_266NM_30MM_FULL_BARRELS",
+  "schema_version": 1,
+  "sources": [
+    "Optical parent caps to the full finished diameter. Ground tube platforms, barrel and preload stack in barrel-layout.json. Maximum extended glass edge 30 mm.",
+    "CH0 engineering allocations 2026-11-18, CT/D 0.10, face distance/D 0.06, thickness loss 0.05 mm; supplier qualification pending"
+  ],
+  "spacer_seats": {
+    "bevel_mm": 0.3,
+    "chip_mm": 0.25,
+    "gap_budget_mm": 0.03,
+    "interfaces": [
+      {
+        "function": "独立前组镜座，另作分段承靠验证",
+        "kind": "open_group",
+        "left_lens": 1
+      },
+      {
+        "function": "独立前组镜座，另作分段承靠验证",
+        "kind": "open_group",
+        "left_lens": 2
+      },
+      {
+        "function": "独立前组镜座，另作分段承靠验证",
+        "kind": "open_group",
+        "left_lens": 3
+      },
+      {
+        "function": "独立前组镜座，另作分段承靠验证",
+        "kind": "open_group",
+        "left_lens": 4
+      },
+      {
+        "function": "傅里叶空间",
+        "kind": "open_group",
+        "left_lens": 5
+      },
+      {
+        "inner_radius_mm": 38.28,
+        "kind": "flat_annulus",
+        "left_lens": 6,
+        "outer_radius_mm": 39.32
+      },
+      {
+        "inner_radius_mm": 35.23,
+        "kind": "flat_annulus",
+        "left_lens": 7,
+        "outer_radius_mm": 36.269999999999996
+      },
+      {
+        "inner_radius_mm": 35.23,
+        "kind": "flat_annulus",
+        "left_lens": 8,
+        "outer_radius_mm": 36.269999999999996
+      },
+      {
+        "inner_radius_mm": 35.23,
+        "kind": "flat_annulus",
+        "left_lens": 9,
+        "outer_radius_mm": 36.269999999999996
+      },
+      {
+        "inner_radius_mm": 35.23,
+        "kind": "flat_annulus",
+        "left_lens": 10,
+        "outer_radius_mm": 36.269999999999996
+      },
+      {
+        "function": "无穷远接口",
+        "kind": "open_group",
+        "left_lens": 11
+      },
+      {
+        "inner_radius_mm": 40.58,
+        "kind": "flat_annulus",
+        "left_lens": 12,
+        "outer_radius_mm": 41.62
+      },
+      {
+        "inner_radius_mm": 40.58,
+        "kind": "flat_annulus",
+        "left_lens": 13,
+        "outer_radius_mm": 41.62
+      },
+      {
+        "inner_radius_mm": 40.58,
+        "kind": "flat_annulus",
+        "left_lens": 14,
+        "outer_radius_mm": 41.62
+      },
+      {
+        "inner_radius_mm": 40.58,
+        "kind": "flat_annulus",
+        "left_lens": 15,
+        "outer_radius_mm": 41.62
+      }
+    ],
+    "maximum_gap_mm": 30.0,
+    "minimum_gap_mm": 0.3,
+    "minimum_width_mm": 1.0
+  },
+  "surfaces": {
+    "1": {
+      "clear_radius_mm": 28.6948177892436,
+      "mechanical_radius_mm": 38.0
+    },
+    "10": {
+      "clear_radius_mm": 38.277966691823295,
+      "mechanical_radius_mm": 43.4
+    },
+    "12": {
+      "clear_radius_mm": 40.44092044452629,
+      "mechanical_radius_mm": 42.45
+    },
+    "13": {
+      "clear_radius_mm": 37.263567217101595,
+      "mechanical_radius_mm": 42.45
+    },
+    "14": {
+      "clear_radius_mm": 36.297881693543914,
+      "mechanical_radius_mm": 39.7
+    },
+    "15": {
+      "clear_radius_mm": 33.4583378980742,
+      "mechanical_radius_mm": 39.7
+    },
+    "16": {
+      "clear_radius_mm": 21.141815340769586,
+      "mechanical_radius_mm": 36.65
+    },
+    "17": {
+      "clear_radius_mm": 20.651456793974123,
+      "mechanical_radius_mm": 36.65
+    },
+    "18": {
+      "clear_radius_mm": 19.842822871956464,
+      "mechanical_radius_mm": 36.65
+    },
+    "19": {
+      "clear_radius_mm": 21.007978018079687,
+      "mechanical_radius_mm": 36.65
+    },
+    "2": {
+      "clear_radius_mm": 35.80135071084097,
+      "mechanical_radius_mm": 38.0
+    },
+    "20": {
+      "clear_radius_mm": 25.248961838359477,
+      "mechanical_radius_mm": 36.65
+    },
+    "21": {
+      "clear_radius_mm": 28.31830457988471,
+      "mechanical_radius_mm": 36.65
+    },
+    "22": {
+      "clear_radius_mm": 30.5089240378838,
+      "mechanical_radius_mm": 37.9
+    },
+    "23": {
+      "clear_radius_mm": 32.59921515869268,
+      "mechanical_radius_mm": 37.9
+    },
+    "24": {
+      "clear_radius_mm": 35.57373913890892,
+      "mechanical_radius_mm": 42.0
+    },
+    "25": {
+      "clear_radius_mm": 35.11320971558772,
+      "mechanical_radius_mm": 42.0
+    },
+    "26": {
+      "clear_radius_mm": 33.359115138077925,
+      "mechanical_radius_mm": 42.0
+    },
+    "27": {
+      "clear_radius_mm": 26.794679837540222,
+      "mechanical_radius_mm": 42.0
+    },
+    "28": {
+      "clear_radius_mm": 23.524413434906545,
+      "mechanical_radius_mm": 42.0
+    },
+    "29": {
+      "clear_radius_mm": 23.091572305761613,
+      "mechanical_radius_mm": 42.0
+    },
+    "3": {
+      "clear_radius_mm": 43.993607094579374,
+      "mechanical_radius_mm": 49.99
+    },
+    "30": {
+      "clear_radius_mm": 25.045666794156745,
+      "mechanical_radius_mm": 42.0
+    },
+    "31": {
+      "clear_radius_mm": 31.33177426131648,
+      "mechanical_radius_mm": 42.0
+    },
+    "32": {
+      "clear_radius_mm": 31.614931705470763,
+      "mechanical_radius_mm": 42.0
+    },
+    "33": {
+      "clear_radius_mm": 31.076715760326213,
+      "mechanical_radius_mm": 42.0
+    },
+    "4": {
+      "clear_radius_mm": 47.04845617364906,
+      "mechanical_radius_mm": 49.99
+    },
+    "5": {
+      "clear_radius_mm": 48.06987549664224,
+      "mechanical_radius_mm": 49.99
+    },
+    "6": {
+      "clear_radius_mm": 48.0590345764896,
+      "mechanical_radius_mm": 49.99
+    },
+    "7": {
+      "clear_radius_mm": 45.5826122508672,
+      "mechanical_radius_mm": 46.7
+    },
+    "8": {
+      "clear_radius_mm": 44.00035146938571,
+      "mechanical_radius_mm": 46.7
+    },
+    "9": {
+      "clear_radius_mm": 42.36479615021384,
+      "mechanical_radius_mm": 43.4
+    }
+  }
+}

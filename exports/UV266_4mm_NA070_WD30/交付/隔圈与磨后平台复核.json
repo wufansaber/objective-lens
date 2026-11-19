@@ -1,0 +1,1452 @@
+{
+  "source_sha256": "25262fb45b4cd6912709610f93052027d3ad1964ea09f5cabd3cc3cc47903665",
+  "surface_policy": {
+    "1": {
+      "clear_radius_mm": 28.6948177892436,
+      "mechanical_radius_mm": 38.0
+    },
+    "10": {
+      "clear_radius_mm": 38.277966691823295,
+      "mechanical_radius_mm": 43.4
+    },
+    "12": {
+      "clear_radius_mm": 40.44092044452629,
+      "mechanical_radius_mm": 42.45
+    },
+    "13": {
+      "clear_radius_mm": 37.263567217101595,
+      "mechanical_radius_mm": 42.45
+    },
+    "14": {
+      "clear_radius_mm": 36.297881693543914,
+      "mechanical_radius_mm": 39.7
+    },
+    "15": {
+      "clear_radius_mm": 33.4583378980742,
+      "mechanical_radius_mm": 39.7
+    },
+    "16": {
+      "clear_radius_mm": 21.141815340769586,
+      "mechanical_radius_mm": 36.65
+    },
+    "17": {
+      "clear_radius_mm": 20.651456793974123,
+      "mechanical_radius_mm": 36.65
+    },
+    "18": {
+      "clear_radius_mm": 19.842822871956464,
+      "mechanical_radius_mm": 36.65
+    },
+    "19": {
+      "clear_radius_mm": 21.007978018079687,
+      "mechanical_radius_mm": 36.65
+    },
+    "2": {
+      "clear_radius_mm": 35.80135071084097,
+      "mechanical_radius_mm": 38.0
+    },
+    "20": {
+      "clear_radius_mm": 25.248961838359477,
+      "mechanical_radius_mm": 36.65
+    },
+    "21": {
+      "clear_radius_mm": 28.31830457988471,
+      "mechanical_radius_mm": 36.65
+    },
+    "22": {
+      "clear_radius_mm": 30.5089240378838,
+      "mechanical_radius_mm": 37.9
+    },
+    "23": {
+      "clear_radius_mm": 32.59921515869268,
+      "mechanical_radius_mm": 37.9
+    },
+    "24": {
+      "clear_radius_mm": 35.57373913890892,
+      "mechanical_radius_mm": 42.0
+    },
+    "25": {
+      "clear_radius_mm": 35.11320971558772,
+      "mechanical_radius_mm": 42.0
+    },
+    "26": {
+      "clear_radius_mm": 33.359115138077925,
+      "mechanical_radius_mm": 42.0
+    },
+    "27": {
+      "clear_radius_mm": 26.794679837540222,
+      "mechanical_radius_mm": 42.0
+    },
+    "28": {
+      "clear_radius_mm": 23.524413434906545,
+      "mechanical_radius_mm": 42.0
+    },
+    "29": {
+      "clear_radius_mm": 23.091572305761613,
+      "mechanical_radius_mm": 42.0
+    },
+    "3": {
+      "clear_radius_mm": 43.993607094579374,
+      "mechanical_radius_mm": 49.99
+    },
+    "30": {
+      "clear_radius_mm": 25.045666794156745,
+      "mechanical_radius_mm": 42.0
+    },
+    "31": {
+      "clear_radius_mm": 31.33177426131648,
+      "mechanical_radius_mm": 42.0
+    },
+    "32": {
+      "clear_radius_mm": 31.614931705470763,
+      "mechanical_radius_mm": 42.0
+    },
+    "33": {
+      "clear_radius_mm": 31.076715760326213,
+      "mechanical_radius_mm": 42.0
+    },
+    "4": {
+      "clear_radius_mm": 47.04845617364906,
+      "mechanical_radius_mm": 49.99
+    },
+    "5": {
+      "clear_radius_mm": 48.06987549664224,
+      "mechanical_radius_mm": 49.99
+    },
+    "6": {
+      "clear_radius_mm": 48.0590345764896,
+      "mechanical_radius_mm": 49.99
+    },
+    "7": {
+      "clear_radius_mm": 45.5826122508672,
+      "mechanical_radius_mm": 46.7
+    },
+    "8": {
+      "clear_radius_mm": 44.00035146938571,
+      "mechanical_radius_mm": 46.7
+    },
+    "9": {
+      "clear_radius_mm": 42.36479615021384,
+      "mechanical_radius_mm": 43.4
+    }
+  },
+  "extended_edges": {
+    "maximum_edge_mm": 30.0,
+    "thickness_budget_mm": 0.05,
+    "tube_lenses": [
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "common_diameter_mm": 84.0,
+    "minimum_platform_mm": 1.5,
+    "clear_reserve_mm": 0.25,
+    "lands": {
+      "13": {
+        "blend_start_mm": 38.14856721710162,
+        "flat_start_mm": 38.265,
+        "bevel_start_mm": 42.150000000000006,
+        "plane_z_mm": 210.73711451418302,
+        "transition": "smoothstep"
+      },
+      "14": {
+        "blend_start_mm": 37.812881693543964,
+        "flat_start_mm": 37.895,
+        "bevel_start_mm": 39.400000000000006,
+        "plane_z_mm": 212.1932204646708,
+        "transition": "smoothstep"
+      },
+      "15": {
+        "blend_start_mm": 33.7133378980742,
+        "flat_start_mm": 35.214999999999996,
+        "bevel_start_mm": 39.400000000000006,
+        "plane_z_mm": 236.18002211976594,
+        "transition": "tangent_ramp"
+      },
+      "16": {
+        "blend_start_mm": 34.716815340769564,
+        "flat_start_mm": 34.845,
+        "bevel_start_mm": 36.35,
+        "plane_z_mm": 253.89550422254598,
+        "transition": "smoothstep"
+      },
+      "17": {
+        "blend_start_mm": 34.7664567939741,
+        "flat_start_mm": 34.845,
+        "bevel_start_mm": 36.35,
+        "plane_z_mm": 279.9550509199335,
+        "transition": "smoothstep"
+      },
+      "18": {
+        "blend_start_mm": 34.76782287195644,
+        "flat_start_mm": 34.845,
+        "bevel_start_mm": 36.35,
+        "plane_z_mm": 286.74096190629325,
+        "transition": "smoothstep"
+      },
+      "19": {
+        "blend_start_mm": 34.762978018079664,
+        "flat_start_mm": 34.845,
+        "bevel_start_mm": 36.35,
+        "plane_z_mm": 314.3558395073192,
+        "transition": "smoothstep"
+      },
+      "20": {
+        "blend_start_mm": 34.77396183835946,
+        "flat_start_mm": 34.845,
+        "bevel_start_mm": 36.35,
+        "plane_z_mm": 319.6488221991645,
+        "transition": "smoothstep"
+      },
+      "21": {
+        "blend_start_mm": 32.4433045798847,
+        "flat_start_mm": 34.845,
+        "bevel_start_mm": 36.35,
+        "plane_z_mm": 329.1443967572339,
+        "transition": "tangent_ramp"
+      },
+      "22": {
+        "blend_start_mm": 35.17392403788379,
+        "flat_start_mm": 35.214999999999996,
+        "bevel_start_mm": 37.6,
+        "plane_z_mm": 345.62856147997525,
+        "transition": "smoothstep"
+      },
+      "25": {
+        "blend_start_mm": 39.50820971558788,
+        "flat_start_mm": 40.195,
+        "bevel_start_mm": 41.7,
+        "plane_z_mm": 412.48656062804173,
+        "transition": "smoothstep"
+      },
+      "26": {
+        "blend_start_mm": 38.92411513807813,
+        "flat_start_mm": 40.195,
+        "bevel_start_mm": 41.7,
+        "plane_z_mm": 431.14836956846017,
+        "transition": "tangent_ramp"
+      },
+      "27": {
+        "blend_start_mm": 40.0996798375402,
+        "flat_start_mm": 40.195,
+        "bevel_start_mm": 41.7,
+        "plane_z_mm": 458.917560446805,
+        "transition": "smoothstep"
+      },
+      "28": {
+        "blend_start_mm": 40.06941343490652,
+        "flat_start_mm": 40.195,
+        "bevel_start_mm": 41.7,
+        "plane_z_mm": 462.6951590624725,
+        "transition": "smoothstep"
+      },
+      "29": {
+        "blend_start_mm": 40.086572305761585,
+        "flat_start_mm": 40.195,
+        "bevel_start_mm": 41.7,
+        "plane_z_mm": 489.8389274656379,
+        "transition": "smoothstep"
+      },
+      "30": {
+        "blend_start_mm": 40.15066679415672,
+        "flat_start_mm": 40.195,
+        "bevel_start_mm": 41.7,
+        "plane_z_mm": 492.9619626406723,
+        "transition": "smoothstep"
+      },
+      "31": {
+        "blend_start_mm": 38.966774261316466,
+        "flat_start_mm": 40.195,
+        "bevel_start_mm": 41.7,
+        "plane_z_mm": 521.875929679269,
+        "transition": "tangent_ramp"
+      },
+      "32": {
+        "blend_start_mm": 39.42993170547075,
+        "flat_start_mm": 40.195,
+        "bevel_start_mm": 41.7,
+        "plane_z_mm": 547.1021415415815,
+        "transition": "smoothstep"
+      },
+      "23": {
+        "blend_start_mm": 34.92421515869276,
+        "flat_start_mm": 36.095,
+        "bevel_start_mm": 37.6,
+        "plane_z_mm": 352.20522570777973,
+        "transition": "tangent_ramp"
+      },
+      "24": {
+        "blend_start_mm": 39.42873913890906,
+        "flat_start_mm": 40.195,
+        "bevel_start_mm": 41.7,
+        "plane_z_mm": 400.0125305632877,
+        "transition": "smoothstep"
+      },
+      "33": {
+        "blend_start_mm": 40.1517157603262,
+        "flat_start_mm": 40.195,
+        "bevel_start_mm": 41.7,
+        "plane_z_mm": 552.9957084232863,
+        "transition": "smoothstep"
+      }
+    },
+    "additional_common_groups": [
+      {
+        "lenses": [
+          8,
+          9,
+          10
+        ],
+        "diameter_mm": 73.3
+      }
+    ]
+  },
+  "spacer_seats": {
+    "interfaces": [
+      {
+        "left_lens": 1,
+        "kind": "open_group",
+        "function": "独立前组镜座，另作分段承靠验证"
+      },
+      {
+        "left_lens": 2,
+        "kind": "open_group",
+        "function": "独立前组镜座，另作分段承靠验证"
+      },
+      {
+        "left_lens": 3,
+        "kind": "open_group",
+        "function": "独立前组镜座，另作分段承靠验证"
+      },
+      {
+        "left_lens": 4,
+        "kind": "open_group",
+        "function": "独立前组镜座，另作分段承靠验证"
+      },
+      {
+        "left_lens": 5,
+        "kind": "open_group",
+        "function": "傅里叶空间"
+      },
+      {
+        "left_lens": 6,
+        "kind": "flat_annulus",
+        "inner_radius_mm": 38.28,
+        "outer_radius_mm": 39.32
+      },
+      {
+        "left_lens": 7,
+        "kind": "flat_annulus",
+        "inner_radius_mm": 35.23,
+        "outer_radius_mm": 36.269999999999996
+      },
+      {
+        "left_lens": 8,
+        "kind": "flat_annulus",
+        "inner_radius_mm": 35.23,
+        "outer_radius_mm": 36.269999999999996
+      },
+      {
+        "left_lens": 9,
+        "kind": "flat_annulus",
+        "inner_radius_mm": 35.23,
+        "outer_radius_mm": 36.269999999999996
+      },
+      {
+        "left_lens": 10,
+        "kind": "flat_annulus",
+        "inner_radius_mm": 35.23,
+        "outer_radius_mm": 36.269999999999996
+      },
+      {
+        "left_lens": 11,
+        "kind": "open_group",
+        "function": "无穷远接口"
+      },
+      {
+        "left_lens": 12,
+        "kind": "flat_annulus",
+        "inner_radius_mm": 40.58,
+        "outer_radius_mm": 41.62
+      },
+      {
+        "left_lens": 13,
+        "kind": "flat_annulus",
+        "inner_radius_mm": 40.58,
+        "outer_radius_mm": 41.62
+      },
+      {
+        "left_lens": 14,
+        "kind": "flat_annulus",
+        "inner_radius_mm": 40.58,
+        "outer_radius_mm": 41.62
+      },
+      {
+        "left_lens": 15,
+        "kind": "flat_annulus",
+        "inner_radius_mm": 40.58,
+        "outer_radius_mm": 41.62
+      }
+    ],
+    "minimum_width_mm": 1.0,
+    "chip_mm": 0.25,
+    "bevel_mm": 0.3,
+    "minimum_gap_mm": 0.3,
+    "maximum_gap_mm": 30.0,
+    "gap_budget_mm": 0.03
+  },
+  "ground_failures": [],
+  "independent_missing": [],
+  "independent_violations": [],
+  "manufacturing_lens_results": [
+    {
+      "lens": 1,
+      "front_surface": 1,
+      "rear_surface": 2,
+      "effective_limits": {
+        "minimum_air_gap_mm": 0.3,
+        "minimum_rim_gap_mm": 0.3,
+        "maximum_diameter_mm": 100.0,
+        "center_thickness_budget_mm": 0.05,
+        "radial_thickness_budget_mm": 0.05,
+        "air_gap_budget_mm": 0.03,
+        "rim_gap_budget_mm": 0.03,
+        "maximum_surface_slope": 2.26,
+        "minimum_center_thickness_mm": 5.0,
+        "minimum_radial_thickness_mm": 3.0,
+        "minimum_clear_to_mechanical_radial_margin_mm": 0.8
+      },
+      "center_thickness_mm": 23.02125622220025,
+      "shape": "meniscus",
+      "meniscus_conditions": {
+        "minimum_center_to_diameter_ratio": 0.1,
+        "minimum_face_to_diameter_ratio": 0.06,
+        "minimum_face_distance_mm": 1.8,
+        "minimum_edge_thickness_mm": 1.8,
+        "maximum_center_thickness_mm": 30.0,
+        "face_distance_budget_mm": 0.05,
+        "edge_thickness_budget_mm": 0.05
+      },
+      "mechanical_diameter_mm": 76.0,
+      "common_radius_mm": 38.0,
+      "minimum_radial_thickness_mm": 9.913708279413404,
+      "minimum_at_radius_mm": 38.0,
+      "edge_thickness_mm": 9.913708279413404,
+      "center_to_diameter_ratio": 0.30291126608158225,
+      "sphere_center_separation_mm": 98.7649859653296,
+      "face_distance": {
+        "method": "analytic_spherical_caps",
+        "lower_mm": 9.464604845316737,
+        "upper_mm": 9.464604845316737,
+        "front_rz_mm": [
+          35.28619179844205,
+          24.832667763165677
+        ],
+        "rear_rz_mm": [
+          38.0,
+          33.89986081962752
+        ],
+        "limit_mm": 4.56,
+        "budget_mm": 0.05,
+        "lower_margin_mm": 4.854604845316737
+      },
+      "isolated_center_thickness_bracket": {
+        "status": "converged",
+        "lower_mm": 17.945214811179532,
+        "feasible_upper_mm": 17.945221387933177,
+        "width_mm": 6.576753644793598e-06
+      }
+    },
+    {
+      "lens": 2,
+      "front_surface": 3,
+      "rear_surface": 4,
+      "effective_limits": {
+        "minimum_air_gap_mm": 0.3,
+        "minimum_rim_gap_mm": 0.3,
+        "maximum_diameter_mm": 100.0,
+        "center_thickness_budget_mm": 0.05,
+        "radial_thickness_budget_mm": 0.05,
+        "air_gap_budget_mm": 0.03,
+        "rim_gap_budget_mm": 0.03,
+        "maximum_surface_slope": 2.26,
+        "minimum_center_thickness_mm": 6.5,
+        "minimum_radial_thickness_mm": 4.0,
+        "minimum_clear_to_mechanical_radial_margin_mm": 1.0
+      },
+      "center_thickness_mm": 27.82141275271566,
+      "shape": "possible_aspheric_meniscus",
+      "meniscus_conditions": {
+        "minimum_center_to_diameter_ratio": 0.1,
+        "minimum_face_to_diameter_ratio": 0.06,
+        "minimum_face_distance_mm": 1.8,
+        "minimum_edge_thickness_mm": 1.8,
+        "maximum_center_thickness_mm": 30.0,
+        "face_distance_budget_mm": 0.05,
+        "edge_thickness_budget_mm": 0.05
+      },
+      "mechanical_diameter_mm": 99.98,
+      "common_radius_mm": 49.99,
+      "minimum_radial_thickness_mm": 6.303595411340796,
+      "minimum_at_radius_mm": 49.99,
+      "edge_thickness_mm": 6.303595411340796,
+      "center_to_diameter_ratio": 0.27826978148345327,
+      "face_distance": {
+        "method": "bounded_asphere_chords",
+        "lower_mm": 6.2312652658777825,
+        "upper_mm": 6.303595411340794,
+        "segments": 32,
+        "front_rz_mm": [
+          49.99,
+          54.51259177392458
+        ],
+        "rear_rz_mm": [
+          49.99,
+          60.81618718526538
+        ],
+        "limit_mm": 5.9988,
+        "budget_mm": 0.05,
+        "lower_margin_mm": 0.18246526587778256
+      },
+      "isolated_center_thickness_bracket": {
+        "status": "converged",
+        "lower_mm": 27.57010190021837,
+        "feasible_upper_mm": 27.57011025856847,
+        "width_mm": 8.35835010093433e-06
+      }
+    },
+    {
+      "lens": 3,
+      "front_surface": 5,
+      "rear_surface": 6,
+      "effective_limits": {
+        "minimum_air_gap_mm": 0.3,
+        "minimum_rim_gap_mm": 0.3,
+        "maximum_diameter_mm": 100.0,
+        "center_thickness_budget_mm": 0.05,
+        "radial_thickness_budget_mm": 0.05,
+        "air_gap_budget_mm": 0.03,
+        "rim_gap_budget_mm": 0.03,
+        "maximum_surface_slope": 2.26,
+        "minimum_center_thickness_mm": 6.5,
+        "minimum_radial_thickness_mm": 4.0,
+        "minimum_clear_to_mechanical_radial_margin_mm": 1.0
+      },
+      "center_thickness_mm": 19.447847616756988,
+      "shape": "possible_aspheric_meniscus",
+      "meniscus_conditions": {
+        "minimum_center_to_diameter_ratio": 0.1,
+        "minimum_face_to_diameter_ratio": 0.06,
+        "minimum_face_distance_mm": 1.8,
+        "minimum_edge_thickness_mm": 1.8,
+        "maximum_center_thickness_mm": 30.0,
+        "face_distance_budget_mm": 0.05,
+        "edge_thickness_budget_mm": 0.05
+      },
+      "mechanical_diameter_mm": 99.98,
+      "common_radius_mm": 49.99,
+      "minimum_radial_thickness_mm": 6.609978780155018,
+      "minimum_at_radius_mm": 49.94335749076799,
+      "edge_thickness_mm": 6.610253196360134,
+      "center_to_diameter_ratio": 0.19451737964349858,
+      "face_distance": {
+        "method": "bounded_asphere_chords",
+        "lower_mm": 6.245625792756763,
+        "upper_mm": 6.609978780155018,
+        "segments": 16,
+        "front_rz_mm": [
+          49.94335749076799,
+          81.41378650911965
+        ],
+        "rear_rz_mm": [
+          49.94335749076799,
+          88.02376528927466
+        ],
+        "limit_mm": 5.9988,
+        "budget_mm": 0.05,
+        "lower_margin_mm": 0.19682579275676293
+      },
+      "isolated_center_thickness_bracket": {
+        "status": "converged",
+        "lower_mm": 18.93238953831922,
+        "feasible_upper_mm": 18.932392652573974,
+        "width_mm": 3.1142547527451825e-06
+      }
+    },
+    {
+      "lens": 4,
+      "front_surface": 7,
+      "rear_surface": 8,
+      "effective_limits": {
+        "minimum_air_gap_mm": 0.3,
+        "minimum_rim_gap_mm": 0.3,
+        "maximum_diameter_mm": 100.0,
+        "center_thickness_budget_mm": 0.05,
+        "radial_thickness_budget_mm": 0.05,
+        "air_gap_budget_mm": 0.03,
+        "rim_gap_budget_mm": 0.03,
+        "maximum_surface_slope": 2.26,
+        "minimum_center_thickness_mm": 8.211201597058801,
+        "minimum_radial_thickness_mm": 4.0,
+        "minimum_clear_to_mechanical_radial_margin_mm": 1.0
+      },
+      "center_thickness_mm": 16.117038367019504,
+      "shape": "possible_aspheric_meniscus",
+      "meniscus_conditions": {
+        "minimum_center_to_diameter_ratio": 0.1,
+        "minimum_face_to_diameter_ratio": 0.06,
+        "minimum_face_distance_mm": 1.8,
+        "minimum_edge_thickness_mm": 1.8,
+        "maximum_center_thickness_mm": 30.0,
+        "face_distance_budget_mm": 0.05,
+        "edge_thickness_budget_mm": 0.05
+      },
+      "mechanical_diameter_mm": 93.4,
+      "common_radius_mm": 46.7,
+      "minimum_radial_thickness_mm": 6.846275187669207,
+      "minimum_at_radius_mm": 46.7,
+      "edge_thickness_mm": 6.846275187669207,
+      "center_to_diameter_ratio": 0.17255929729142935,
+      "face_distance": {
+        "method": "bounded_asphere_chords",
+        "lower_mm": 6.512316200982792,
+        "upper_mm": 6.846275187669207,
+        "segments": 16,
+        "front_rz_mm": [
+          46.7,
+          110.65975067164844
+        ],
+        "rear_rz_mm": [
+          46.7,
+          117.50602585931765
+        ],
+        "limit_mm": 5.604,
+        "budget_mm": 0.05,
+        "lower_margin_mm": 0.8583162009827925
+      },
+      "isolated_center_thickness_bracket": {
+        "status": "converged",
+        "lower_mm": 14.929091094700436,
+        "feasible_upper_mm": 14.929099024138464,
+        "width_mm": 7.929438028853042e-06
+      }
+    },
+    {
+      "lens": 5,
+      "front_surface": 9,
+      "rear_surface": 10,
+      "effective_limits": {
+        "minimum_air_gap_mm": 0.3,
+        "minimum_rim_gap_mm": 0.3,
+        "maximum_diameter_mm": 100.0,
+        "center_thickness_budget_mm": 0.05,
+        "radial_thickness_budget_mm": 0.05,
+        "air_gap_budget_mm": 0.03,
+        "rim_gap_budget_mm": 0.03,
+        "maximum_surface_slope": 2.26,
+        "minimum_center_thickness_mm": 8.242408514219004,
+        "minimum_radial_thickness_mm": 4.0,
+        "minimum_clear_to_mechanical_radial_margin_mm": 1.0
+      },
+      "center_thickness_mm": 9.208562363370206,
+      "shape": "possible_aspheric_meniscus",
+      "meniscus_conditions": {
+        "minimum_center_to_diameter_ratio": 0.1,
+        "minimum_face_to_diameter_ratio": 0.06,
+        "minimum_face_distance_mm": 1.8,
+        "minimum_edge_thickness_mm": 1.8,
+        "maximum_center_thickness_mm": 30.0,
+        "face_distance_budget_mm": 0.05,
+        "edge_thickness_budget_mm": 0.05
+      },
+      "mechanical_diameter_mm": 86.8,
+      "common_radius_mm": 43.4,
+      "minimum_radial_thickness_mm": 9.208562363370206,
+      "minimum_at_radius_mm": 0.0,
+      "edge_thickness_mm": 22.091558114107087,
+      "center_to_diameter_ratio": 0.10608942814942633,
+      "face_distance": {
+        "method": "bounded_asphere_chords",
+        "lower_mm": 8.022856546308109,
+        "upper_mm": 9.208562363370206,
+        "segments": 16,
+        "front_rz_mm": [
+          0.0,
+          122.79715407511073
+        ],
+        "rear_rz_mm": [
+          0.0,
+          132.00571643848093
+        ],
+        "limit_mm": 5.207999999999999,
+        "budget_mm": 0.05,
+        "lower_margin_mm": 2.76485654630811
+      },
+      "isolated_center_thickness_bracket": {
+        "status": "converged",
+        "lower_mm": 8.73,
+        "feasible_upper_mm": 8.73,
+        "width_mm": 0.0
+      }
+    },
+    {
+      "lens": 6,
+      "front_surface": 12,
+      "rear_surface": 13,
+      "effective_limits": {
+        "minimum_air_gap_mm": 0.3,
+        "minimum_rim_gap_mm": 0.3,
+        "maximum_diameter_mm": 100.0,
+        "center_thickness_budget_mm": 0.05,
+        "radial_thickness_budget_mm": 0.05,
+        "air_gap_budget_mm": 0.03,
+        "rim_gap_budget_mm": 0.03,
+        "maximum_surface_slope": 2.26,
+        "minimum_center_thickness_mm": 6.5,
+        "minimum_radial_thickness_mm": 4.0,
+        "minimum_clear_to_mechanical_radial_margin_mm": 1.0
+      },
+      "center_thickness_mm": 26.2709892505803,
+      "shape": "meniscus",
+      "meniscus_conditions": {
+        "minimum_center_to_diameter_ratio": 0.1,
+        "minimum_face_to_diameter_ratio": 0.06,
+        "minimum_face_distance_mm": 1.8,
+        "minimum_edge_thickness_mm": 1.8,
+        "maximum_center_thickness_mm": 30.0,
+        "face_distance_budget_mm": 0.05,
+        "edge_thickness_budget_mm": 0.05
+      },
+      "mechanical_diameter_mm": 84.9,
+      "common_radius_mm": 42.45,
+      "minimum_radial_thickness_mm": 8.663036204409199,
+      "minimum_at_radius_mm": 42.45,
+      "edge_thickness_mm": 8.663036204409199,
+      "center_to_diameter_ratio": 0.30943450236254766,
+      "sphere_center_separation_mm": 476.47536108728974,
+      "face_distance": {
+        "method": "analytic_spherical_caps",
+        "lower_mm": 8.63305305671693,
+        "upper_mm": 8.63305305671693,
+        "front_rz_mm": [
+          42.45,
+          202.41850162183474
+        ],
+        "rear_rz_mm": [
+          41.73840023508218,
+          211.0221770489216
+        ],
+        "limit_mm": 5.094,
+        "budget_mm": 0.05,
+        "lower_margin_mm": 3.489053056716929
+      },
+      "isolated_center_thickness_bracket": {
+        "status": "converged",
+        "lower_mm": 22.769939937447038,
+        "feasible_upper_mm": 22.769947845359248,
+        "width_mm": 7.90791220950382e-06
+      }
+    },
+    {
+      "lens": 7,
+      "front_surface": 14,
+      "rear_surface": 15,
+      "effective_limits": {
+        "minimum_air_gap_mm": 0.3,
+        "minimum_rim_gap_mm": 0.3,
+        "maximum_diameter_mm": 100.0,
+        "center_thickness_budget_mm": 0.05,
+        "radial_thickness_budget_mm": 0.05,
+        "air_gap_budget_mm": 0.03,
+        "rim_gap_budget_mm": 0.03,
+        "maximum_surface_slope": 2.26,
+        "minimum_center_thickness_mm": 7.65,
+        "minimum_radial_thickness_mm": 3.0,
+        "minimum_clear_to_mechanical_radial_margin_mm": 1.0
+      },
+      "center_thickness_mm": 26.13066456533744,
+      "shape": "meniscus",
+      "meniscus_conditions": {
+        "minimum_center_to_diameter_ratio": 0.1,
+        "minimum_face_to_diameter_ratio": 0.06,
+        "minimum_face_distance_mm": 1.8,
+        "minimum_edge_thickness_mm": 1.8,
+        "maximum_center_thickness_mm": 30.0,
+        "face_distance_budget_mm": 0.05,
+        "edge_thickness_budget_mm": 0.05
+      },
+      "mechanical_diameter_mm": 79.4,
+      "common_radius_mm": 39.7,
+      "minimum_radial_thickness_mm": 24.765722143973978,
+      "minimum_at_radius_mm": 39.7,
+      "edge_thickness_mm": 24.765722143973978,
+      "center_to_diameter_ratio": 0.3291015688329652,
+      "face_distance": {
+        "method": "bounded_asphere_chords",
+        "lower_mm": 23.15875259366015,
+        "upper_mm": 23.179063710739467,
+        "segments": 16,
+        "front_rz_mm": [
+          32.25625,
+          214.22972197938594
+        ],
+        "rear_rz_mm": [
+          39.7,
+          236.1810221787823
+        ],
+        "limit_mm": 4.764,
+        "budget_mm": 0.05,
+        "lower_margin_mm": 18.34475259366015
+      },
+      "isolated_center_thickness_bracket": {
+        "status": "converged",
+        "lower_mm": 7.990000000000001,
+        "feasible_upper_mm": 7.990000000000001,
+        "width_mm": 0.0
+      }
+    },
+    {
+      "lens": 8,
+      "front_surface": 16,
+      "rear_surface": 17,
+      "effective_limits": {
+        "minimum_air_gap_mm": 0.3,
+        "minimum_rim_gap_mm": 0.3,
+        "maximum_diameter_mm": 100.0,
+        "center_thickness_budget_mm": 0.05,
+        "radial_thickness_budget_mm": 0.05,
+        "air_gap_budget_mm": 0.03,
+        "rim_gap_budget_mm": 0.03,
+        "maximum_surface_slope": 2.26,
+        "minimum_center_thickness_mm": 5.0,
+        "minimum_radial_thickness_mm": 3.0,
+        "minimum_clear_to_mechanical_radial_margin_mm": 1.0
+      },
+      "center_thickness_mm": 5.19636808679212,
+      "shape": "opposed",
+      "mechanical_diameter_mm": 73.3,
+      "common_radius_mm": 36.65,
+      "minimum_radial_thickness_mm": 5.19636808679212,
+      "minimum_at_radius_mm": 0.0,
+      "edge_thickness_mm": 29.91221618674019
+    },
+    {
+      "lens": 9,
+      "front_surface": 18,
+      "rear_surface": 19,
+      "effective_limits": {
+        "minimum_air_gap_mm": 0.3,
+        "minimum_rim_gap_mm": 0.3,
+        "maximum_diameter_mm": 100.0,
+        "center_thickness_budget_mm": 0.05,
+        "radial_thickness_budget_mm": 0.05,
+        "air_gap_budget_mm": 0.03,
+        "rim_gap_budget_mm": 0.03,
+        "maximum_surface_slope": 2.26,
+        "minimum_center_thickness_mm": 5.0,
+        "minimum_radial_thickness_mm": 3.0,
+        "minimum_clear_to_mechanical_radial_margin_mm": 1.0
+      },
+      "center_thickness_mm": 8.20237306188642,
+      "shape": "opposed",
+      "mechanical_diameter_mm": 73.3,
+      "common_radius_mm": 36.65,
+      "minimum_radial_thickness_mm": 8.20237306188642,
+      "minimum_at_radius_mm": 0.0,
+      "edge_thickness_mm": 29.803886266556077
+    },
+    {
+      "lens": 10,
+      "front_surface": 20,
+      "rear_surface": 21,
+      "effective_limits": {
+        "minimum_air_gap_mm": 0.3,
+        "minimum_rim_gap_mm": 0.3,
+        "maximum_diameter_mm": 100.0,
+        "center_thickness_budget_mm": 0.05,
+        "radial_thickness_budget_mm": 0.05,
+        "air_gap_budget_mm": 0.03,
+        "rim_gap_budget_mm": 0.03,
+        "maximum_surface_slope": 2.26,
+        "minimum_center_thickness_mm": 7.137308895032845,
+        "minimum_radial_thickness_mm": 3.0,
+        "minimum_clear_to_mechanical_radial_margin_mm": 1.0
+      },
+      "center_thickness_mm": 13.100979953094168,
+      "shape": "meniscus",
+      "meniscus_conditions": {
+        "minimum_center_to_diameter_ratio": 0.1,
+        "minimum_face_to_diameter_ratio": 0.06,
+        "minimum_face_distance_mm": 1.8,
+        "minimum_edge_thickness_mm": 1.8,
+        "maximum_center_thickness_mm": 30.0,
+        "face_distance_budget_mm": 0.05,
+        "edge_thickness_budget_mm": 0.05
+      },
+      "mechanical_diameter_mm": 73.3,
+      "common_radius_mm": 36.65,
+      "minimum_radial_thickness_mm": 11.263550467485828,
+      "minimum_at_radius_mm": 35.813265964832844,
+      "edge_thickness_mm": 11.738437338839503,
+      "center_to_diameter_ratio": 0.1787309679821851,
+      "face_distance": {
+        "method": "bounded_asphere_chords",
+        "lower_mm": 6.616498676185431,
+        "upper_mm": 8.152777146927166,
+        "segments": 16,
+        "front_rz_mm": [
+          31.008800432852905,
+          323.25942944068913
+        ],
+        "rear_rz_mm": [
+          36.65,
+          329.1453994245641
+        ],
+        "limit_mm": 4.398,
+        "budget_mm": 0.05,
+        "lower_margin_mm": 2.1684986761854317
+      },
+      "isolated_center_thickness_bracket": {
+        "status": "converged",
+        "lower_mm": 8.045215178728103,
+        "feasible_upper_mm": 8.045220559835435,
+        "width_mm": 5.381107332169677e-06
+      }
+    },
+    {
+      "lens": 11,
+      "front_surface": 22,
+      "rear_surface": 23,
+      "effective_limits": {
+        "minimum_air_gap_mm": 0.3,
+        "minimum_rim_gap_mm": 0.3,
+        "maximum_diameter_mm": 100.0,
+        "center_thickness_budget_mm": 0.05,
+        "radial_thickness_budget_mm": 0.05,
+        "air_gap_budget_mm": 0.03,
+        "rim_gap_budget_mm": 0.03,
+        "maximum_surface_slope": 2.26,
+        "minimum_center_thickness_mm": 7.244172827331979,
+        "minimum_radial_thickness_mm": 3.0,
+        "minimum_clear_to_mechanical_radial_margin_mm": 1.0
+      },
+      "center_thickness_mm": 12.715711332725789,
+      "shape": "possible_aspheric_meniscus",
+      "meniscus_conditions": {
+        "minimum_center_to_diameter_ratio": 0.1,
+        "minimum_face_to_diameter_ratio": 0.06,
+        "minimum_face_distance_mm": 1.8,
+        "minimum_edge_thickness_mm": 1.8,
+        "maximum_center_thickness_mm": 30.0,
+        "face_distance_budget_mm": 0.05,
+        "edge_thickness_budget_mm": 0.05
+      },
+      "mechanical_diameter_mm": 75.8,
+      "common_radius_mm": 37.9,
+      "minimum_radial_thickness_mm": 7.29624287705515,
+      "minimum_at_radius_mm": 37.9,
+      "edge_thickness_mm": 7.29624287705515,
+      "center_to_diameter_ratio": 0.1677534476612901,
+      "face_distance": {
+        "method": "bounded_asphere_chords",
+        "lower_mm": 6.6400694299086185,
+        "upper_mm": 7.219453440357457,
+        "segments": 16,
+        "front_rz_mm": [
+          36.27066302778164,
+          345.17303540699334
+        ],
+        "rear_rz_mm": [
+          37.9,
+          352.2062259353703
+        ],
+        "limit_mm": 4.548,
+        "budget_mm": 0.05,
+        "lower_margin_mm": 2.0420694299086186
+      },
+      "isolated_center_thickness_bracket": {
+        "status": "converged",
+        "lower_mm": 10.017465431136326,
+        "feasible_upper_mm": 10.017470552494135,
+        "width_mm": 5.121357808945959e-06
+      }
+    },
+    {
+      "lens": 12,
+      "front_surface": 24,
+      "rear_surface": 25,
+      "effective_limits": {
+        "minimum_air_gap_mm": 0.3,
+        "minimum_rim_gap_mm": 0.3,
+        "maximum_diameter_mm": 100.0,
+        "center_thickness_budget_mm": 0.05,
+        "radial_thickness_budget_mm": 0.05,
+        "air_gap_budget_mm": 0.03,
+        "rim_gap_budget_mm": 0.03,
+        "maximum_surface_slope": 2.26,
+        "minimum_center_thickness_mm": 6.5,
+        "minimum_radial_thickness_mm": 4.0,
+        "minimum_clear_to_mechanical_radial_margin_mm": 1.0
+      },
+      "center_thickness_mm": 24.159987600840054,
+      "shape": "opposed",
+      "mechanical_diameter_mm": 84.0,
+      "common_radius_mm": 42.0,
+      "minimum_radial_thickness_mm": 12.476030171056244,
+      "minimum_at_radius_mm": 42.0,
+      "edge_thickness_mm": 12.476030171056244
+    },
+    {
+      "lens": 13,
+      "front_surface": 26,
+      "rear_surface": 27,
+      "effective_limits": {
+        "minimum_air_gap_mm": 0.3,
+        "minimum_rim_gap_mm": 0.3,
+        "maximum_diameter_mm": 100.0,
+        "center_thickness_budget_mm": 0.05,
+        "radial_thickness_budget_mm": 0.05,
+        "air_gap_budget_mm": 0.03,
+        "rim_gap_budget_mm": 0.03,
+        "maximum_surface_slope": 2.26,
+        "minimum_center_thickness_mm": 8.4,
+        "minimum_radial_thickness_mm": 4.0,
+        "minimum_clear_to_mechanical_radial_margin_mm": 1.0
+      },
+      "center_thickness_mm": 28.265979106656346,
+      "shape": "meniscus",
+      "meniscus_conditions": {
+        "minimum_center_to_diameter_ratio": 0.1,
+        "minimum_face_to_diameter_ratio": 0.06,
+        "minimum_face_distance_mm": 1.8,
+        "minimum_edge_thickness_mm": 1.8,
+        "maximum_center_thickness_mm": 30.0,
+        "face_distance_budget_mm": 0.05,
+        "edge_thickness_budget_mm": 0.05
+      },
+      "mechanical_diameter_mm": 84.0,
+      "common_radius_mm": 42.0,
+      "minimum_radial_thickness_mm": 28.265979106656346,
+      "minimum_at_radius_mm": 0.0,
+      "edge_thickness_mm": 29.590083228918413,
+      "center_to_diameter_ratio": 0.33649975126971843,
+      "face_distance": {
+        "method": "bounded_asphere_chords",
+        "lower_mm": 24.455397061520742,
+        "upper_mm": 25.793225946050715,
+        "segments": 16,
+        "front_rz_mm": [
+          42.0,
+          431.14736954513137
+        ],
+        "rear_rz_mm": [
+          31.5,
+          454.70666717269285
+        ],
+        "limit_mm": 5.04,
+        "budget_mm": 0.05,
+        "lower_margin_mm": 19.365397061520742
+      },
+      "isolated_center_thickness_bracket": {
+        "status": "converged",
+        "lower_mm": 8.450000000000001,
+        "feasible_upper_mm": 8.450000000000001,
+        "width_mm": 0.0
+      }
+    },
+    {
+      "lens": 14,
+      "front_surface": 28,
+      "rear_surface": 29,
+      "effective_limits": {
+        "minimum_air_gap_mm": 0.3,
+        "minimum_rim_gap_mm": 0.3,
+        "maximum_diameter_mm": 100.0,
+        "center_thickness_budget_mm": 0.05,
+        "radial_thickness_budget_mm": 0.05,
+        "air_gap_budget_mm": 0.03,
+        "rim_gap_budget_mm": 0.03,
+        "maximum_surface_slope": 2.26,
+        "minimum_center_thickness_mm": 6.5,
+        "minimum_radial_thickness_mm": 4.0,
+        "minimum_clear_to_mechanical_radial_margin_mm": 1.0
+      },
+      "center_thickness_mm": 9.123638184998754,
+      "shape": "possible_aspheric_meniscus",
+      "meniscus_conditions": {
+        "minimum_center_to_diameter_ratio": 0.1,
+        "minimum_face_to_diameter_ratio": 0.06,
+        "minimum_face_distance_mm": 1.8,
+        "minimum_edge_thickness_mm": 1.8,
+        "maximum_center_thickness_mm": 30.0,
+        "face_distance_budget_mm": 0.05,
+        "edge_thickness_budget_mm": 0.05
+      },
+      "mechanical_diameter_mm": 84.0,
+      "common_radius_mm": 42.0,
+      "minimum_radial_thickness_mm": 9.123638184998754,
+      "minimum_at_radius_mm": 0.0,
+      "edge_thickness_mm": 29.90848161104314,
+      "center_to_diameter_ratio": 0.1086147402976042,
+      "face_distance": {
+        "method": "bounded_asphere_chords",
+        "lower_mm": 7.772749803615037,
+        "upper_mm": 9.123638184998754,
+        "segments": 16,
+        "front_rz_mm": [
+          0.0,
+          472.67035360312167
+        ],
+        "rear_rz_mm": [
+          0.0,
+          481.7939917881204
+        ],
+        "limit_mm": 5.04,
+        "budget_mm": 0.05,
+        "lower_margin_mm": 2.682749803615037
+      },
+      "isolated_center_thickness_bracket": {
+        "status": "converged",
+        "lower_mm": 8.450000000000001,
+        "feasible_upper_mm": 8.450000000000001,
+        "width_mm": 0.0
+      }
+    },
+    {
+      "lens": 15,
+      "front_surface": 30,
+      "rear_surface": 31,
+      "effective_limits": {
+        "minimum_air_gap_mm": 0.3,
+        "minimum_rim_gap_mm": 0.3,
+        "maximum_diameter_mm": 100.0,
+        "center_thickness_budget_mm": 0.05,
+        "radial_thickness_budget_mm": 0.05,
+        "air_gap_budget_mm": 0.03,
+        "rim_gap_budget_mm": 0.03,
+        "maximum_surface_slope": 2.26,
+        "minimum_center_thickness_mm": 8.4,
+        "minimum_radial_thickness_mm": 4.0,
+        "minimum_clear_to_mechanical_radial_margin_mm": 1.0
+      },
+      "center_thickness_mm": 28.92402037818738,
+      "shape": "meniscus",
+      "meniscus_conditions": {
+        "minimum_center_to_diameter_ratio": 0.1,
+        "minimum_face_to_diameter_ratio": 0.06,
+        "minimum_face_distance_mm": 1.8,
+        "minimum_edge_thickness_mm": 1.8,
+        "maximum_center_thickness_mm": 30.0,
+        "face_distance_budget_mm": 0.05,
+        "edge_thickness_budget_mm": 0.05
+      },
+      "mechanical_diameter_mm": 84.0,
+      "common_radius_mm": 42.0,
+      "minimum_radial_thickness_mm": 28.891702333936767,
+      "minimum_at_radius_mm": 16.04201897178733,
+      "edge_thickness_mm": 29.915110416223314,
+      "center_to_diameter_ratio": 0.3443335759308021,
+      "face_distance": {
+        "method": "bounded_asphere_chords",
+        "lower_mm": 21.815679497353127,
+        "upper_mm": 22.892530487035994,
+        "segments": 16,
+        "front_rz_mm": [
+          28.39375864280824,
+          503.46665723842005
+        ],
+        "rear_rz_mm": [
+          42.0,
+          521.876930137802
+        ],
+        "limit_mm": 5.04,
+        "budget_mm": 0.05,
+        "lower_margin_mm": 16.725679497353127
+      },
+      "isolated_center_thickness_bracket": {
+        "status": "converged",
+        "lower_mm": 8.450000000000001,
+        "feasible_upper_mm": 8.450000000000001,
+        "width_mm": 0.0
+      }
+    },
+    {
+      "lens": 16,
+      "front_surface": 32,
+      "rear_surface": 33,
+      "effective_limits": {
+        "minimum_air_gap_mm": 0.3,
+        "minimum_rim_gap_mm": 0.3,
+        "maximum_diameter_mm": 100.0,
+        "center_thickness_budget_mm": 0.05,
+        "radial_thickness_budget_mm": 0.05,
+        "air_gap_budget_mm": 0.03,
+        "rim_gap_budget_mm": 0.03,
+        "maximum_surface_slope": 2.26,
+        "minimum_center_thickness_mm": 8.4,
+        "minimum_radial_thickness_mm": 4.0,
+        "minimum_clear_to_mechanical_radial_margin_mm": 1.0
+      },
+      "center_thickness_mm": 12.6275655771924,
+      "shape": "possible_aspheric_meniscus",
+      "meniscus_conditions": {
+        "minimum_center_to_diameter_ratio": 0.1,
+        "minimum_face_to_diameter_ratio": 0.06,
+        "minimum_face_distance_mm": 1.8,
+        "minimum_edge_thickness_mm": 1.8,
+        "maximum_center_thickness_mm": 30.0,
+        "face_distance_budget_mm": 0.05,
+        "edge_thickness_budget_mm": 0.05
+      },
+      "mechanical_diameter_mm": 84.0,
+      "common_radius_mm": 42.0,
+      "minimum_radial_thickness_mm": 6.037171519981917,
+      "minimum_at_radius_mm": 42.0,
+      "edge_thickness_mm": 6.037171519981917,
+      "center_to_diameter_ratio": 0.15032816163324286,
+      "face_distance": {
+        "method": "bounded_asphere_chords",
+        "lower_mm": 5.906375856175095,
+        "upper_mm": 5.998394806904558,
+        "segments": 16,
+        "front_rz_mm": [
+          42.0,
+          547.1011415345952
+        ],
+        "rear_rz_mm": [
+          41.66216663142346,
+          553.0900152913691
+        ],
+        "limit_mm": 5.04,
+        "budget_mm": 0.05,
+        "lower_margin_mm": 0.8163758561750951
+      },
+      "isolated_center_thickness_bracket": {
+        "status": "converged",
+        "lower_mm": 11.722767727498919,
+        "feasible_upper_mm": 11.72277233126773,
+        "width_mm": 4.60376881150637e-06
+      }
+    }
+  ],
+  "finished_glass": [
+    {
+      "lens": 1,
+      "radius_mm": 38.0,
+      "extended_edge_mm": 9.913708279413406
+    },
+    {
+      "lens": 2,
+      "radius_mm": 49.99,
+      "extended_edge_mm": 6.303595411340794
+    },
+    {
+      "lens": 3,
+      "radius_mm": 49.99,
+      "extended_edge_mm": 6.610253196360134
+    },
+    {
+      "lens": 4,
+      "radius_mm": 46.7,
+      "extended_edge_mm": 6.846275187669207
+    },
+    {
+      "lens": 5,
+      "radius_mm": 43.4,
+      "extended_edge_mm": 22.091558114107073
+    },
+    {
+      "lens": 6,
+      "radius_mm": 42.45,
+      "extended_edge_mm": 8.663036204409195,
+      "finished_surface_slope_upper": 1.1557558914320438,
+      "finished_rim_mm": 8.018612892348273,
+      "finished_minimum_axial_lower_mm": 7.839878834552781,
+      "finished_face_distance_lower_mm": 5.543631487593158
+    },
+    {
+      "lens": 7,
+      "radius_mm": 39.7,
+      "extended_edge_mm": 24.76572214397399,
+      "finished_surface_slope_upper": 1.854458464614737,
+      "finished_rim_mm": 23.386801655095155,
+      "finished_minimum_axial_lower_mm": 22.765254615440764,
+      "finished_face_distance_lower_mm": 16.097465914016514,
+      "finished_land_thickness_mm": 23.98680165509515
+    },
+    {
+      "lens": 8,
+      "radius_mm": 36.65,
+      "extended_edge_mm": 29.91221618674021,
+      "finished_surface_slope_upper": 2.221615416729458,
+      "finished_rim_mm": 25.45954669738751,
+      "finished_minimum_axial_lower_mm": 4.965758311356301,
+      "finished_face_distance_lower_mm": 3.511321375693499,
+      "finished_land_thickness_mm": 26.059546697387532
+    },
+    {
+      "lens": 9,
+      "radius_mm": 36.65,
+      "extended_edge_mm": 29.80388626655605,
+      "finished_surface_slope_upper": 1.0011979608008876,
+      "finished_rim_mm": 27.014877601025944,
+      "finished_minimum_axial_lower_mm": 8.059123246918928,
+      "finished_face_distance_lower_mm": 5.69866069831452,
+      "finished_land_thickness_mm": 27.614877601025967
+    },
+    {
+      "lens": 10,
+      "radius_mm": 36.65,
+      "extended_edge_mm": 11.738437338839503,
+      "finished_surface_slope_upper": 2.2209162965311355,
+      "finished_rim_mm": 8.89557455806937,
+      "finished_minimum_axial_lower_mm": 8.608009134384588,
+      "finished_face_distance_lower_mm": 6.57343315991598,
+      "finished_land_thickness_mm": 9.495574558069393
+    },
+    {
+      "lens": 11,
+      "radius_mm": 37.9,
+      "extended_edge_mm": 7.2962428770551355,
+      "finished_surface_slope_upper": 1.9789792000569906,
+      "finished_rim_mm": 5.976664227804463,
+      "finished_minimum_axial_lower_mm": 5.756149947175236,
+      "finished_face_distance_lower_mm": 5.707848122405764,
+      "finished_land_thickness_mm": 6.576664227804486
+    },
+    {
+      "lens": 12,
+      "radius_mm": 42.0,
+      "extended_edge_mm": 12.476030171056209,
+      "finished_surface_slope_upper": 1.3888517275881886,
+      "finished_rim_mm": 11.874030064753981,
+      "finished_minimum_axial_lower_mm": 11.661030983499119,
+      "finished_face_distance_lower_mm": 7.436979067707514,
+      "finished_land_thickness_mm": 12.474030064754004
+    },
+    {
+      "lens": 13,
+      "radius_mm": 42.0,
+      "extended_edge_mm": 29.590083228918388,
+      "finished_surface_slope_upper": 1.8891622907883556,
+      "finished_rim_mm": 27.169190878344807,
+      "finished_minimum_axial_lower_mm": 26.89019643325473,
+      "finished_face_distance_lower_mm": 14.834335418354874,
+      "finished_land_thickness_mm": 27.76919087834483
+    },
+    {
+      "lens": 14,
+      "radius_mm": 42.0,
+      "extended_edge_mm": 29.908481611043157,
+      "finished_surface_slope_upper": 1.0924372455401714,
+      "finished_rim_mm": 26.54376840316536,
+      "finished_minimum_axial_lower_mm": 8.951992942200537,
+      "finished_face_distance_lower_mm": 6.330014914564113,
+      "finished_land_thickness_mm": 27.14376840316538
+    },
+    {
+      "lens": 15,
+      "radius_mm": 42.0,
+      "extended_edge_mm": 29.915110416223285,
+      "finished_surface_slope_upper": 2.232938352163994,
+      "finished_rim_mm": 28.31396703859673,
+      "finished_minimum_axial_lower_mm": 28.048765064395777,
+      "finished_face_distance_lower_mm": 19.833471980942583,
+      "finished_land_thickness_mm": 28.913967038596695
+    },
+    {
+      "lens": 16,
+      "radius_mm": 42.0,
+      "extended_edge_mm": 6.037171519981939,
+      "finished_surface_slope_upper": 1.5956462838245413,
+      "finished_rim_mm": 5.293566881704805,
+      "finished_minimum_axial_lower_mm": 5.2403358543998095,
+      "finished_face_distance_lower_mm": 5.2259460765972285,
+      "finished_land_thickness_mm": 5.893566881704714
+    }
+  ],
+  "checked_interfaces": [
+    {
+      "left": 1,
+      "min_mm": 0.34019669346433545,
+      "max_mm": 20.1150542633192,
+      "separate_rim_mm": 20.612730954297064
+    },
+    {
+      "left": 2,
+      "min_mm": 0.34529078169413197,
+      "max_mm": 20.606196069738985,
+      "separate_rim_mm": 20.606196069738985
+    },
+    {
+      "left": 3,
+      "min_mm": 0.4157889192969293,
+      "max_mm": 22.322386776005047,
+      "separate_rim_mm": 22.627114220283943
+    },
+    {
+      "left": 4,
+      "min_mm": 5.288322721962928,
+      "max_mm": 6.281252571137557,
+      "separate_rim_mm": 5.96762296008427
+    },
+    {
+      "left": 6,
+      "min_mm": 1.453166578643561,
+      "max_mm": 10.17565139792589,
+      "separate_rim_mm": 2.0561059504877903
+    },
+    {
+      "left": 7,
+      "min_mm": 16.66520847193931,
+      "max_mm": 28.210289984212267,
+      "separate_rim_mm": 18.315482102780038
+    },
+    {
+      "left": 8,
+      "min_mm": 6.763956578963814,
+      "max_mm": 20.788976611155135,
+      "separate_rim_mm": 7.385910986359761
+    },
+    {
+      "left": 9,
+      "min_mm": 5.266765724357924,
+      "max_mm": 25.109444582629408,
+      "separate_rim_mm": 5.8929826918453045
+    },
+    {
+      "left": 10,
+      "min_mm": 5.082082940323573,
+      "max_mm": 16.784164722741366,
+      "separate_rim_mm": 17.084164722741377
+    },
+    {
+      "left": 12,
+      "min_mm": 0.9333298998996042,
+      "max_mm": 19.26180894041846,
+      "separate_rim_mm": 19.26180894041846
+    },
+    {
+      "left": 13,
+      "min_mm": 3.748590968378835,
+      "max_mm": 25.29946231623819,
+      "separate_rim_mm": 4.377598615667523
+    },
+    {
+      "left": 14,
+      "min_mm": 3.09772107490096,
+      "max_mm": 29.189949357229295,
+      "separate_rim_mm": 3.723035175034454
+    },
+    {
+      "left": 15,
+      "min_mm": 0.3443576393716512,
+      "max_mm": 25.826211862312448,
+      "separate_rim_mm": 25.826211862312448
+    }
+  ],
+  "subassembly_geometry_passed": true,
+  "front_cell_assembly_pending": true
+}

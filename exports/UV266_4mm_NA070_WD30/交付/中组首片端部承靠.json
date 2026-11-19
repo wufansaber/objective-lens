@@ -1,0 +1,61 @@
+{
+  "source_sha256": "25262fb45b4cd6912709610f93052027d3ad1964ea09f5cabd3cc3cc47903665",
+  "channels": {
+    "0": {
+      "mount": {
+        "angle_groups_deg": [
+          14,
+          -14,
+          166,
+          -166
+        ],
+        "half_angle_deg": 5,
+        "contact_r_mm": [
+          40.57,
+          42.080000000000005
+        ],
+        "ground_z_mm": [
+          202.048290920239,
+          202.048290920239
+        ],
+        "faces_1based": [
+          12,
+          12
+        ],
+        "_id": 12
+      },
+      "ray_intrusion_mm": 0.0,
+      "face_distance_lower_mm": 8.012187355238886,
+      "radial_minimum_mm": 8.018612892348273
+    },
+    "2": {
+      "mount": {
+        "angle_groups_deg": [
+          8,
+          -8,
+          166,
+          -166
+        ],
+        "half_angle_deg": 5,
+        "contact_r_mm": [
+          40.57,
+          42.080000000000005
+        ],
+        "ground_z_mm": [
+          202.048290920239,
+          202.048290920239
+        ],
+        "faces_1based": [
+          12,
+          12
+        ],
+        "_id": 12
+      },
+      "ray_intrusion_mm": 0.0,
+      "face_distance_lower_mm": 8.012187355238886,
+      "radial_minimum_mm": 8.018612892348273
+    }
+  },
+  "failed": [],
+  "description": "Four finite, coplanar, 1.51 mm wide shoulder sectors on L6. CH1 mirrors CH2. Rear finished surface included in solid thickness."
+}

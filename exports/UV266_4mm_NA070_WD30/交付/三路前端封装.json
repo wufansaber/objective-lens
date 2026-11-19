@@ -1,0 +1,105 @@
+{
+  "axes_deg": [
+    -45,
+    0,
+    45
+  ],
+  "coordinates": "Three coplanar axes rotate about common Y at the wafer field origin.",
+  "first_cell": {
+    "adjacent_independent_walls": 2,
+    "arc_flat_land_radial_band_mm": [
+      36.3,
+      37.7
+    ],
+    "arc_front_and_back_seat_z_mm": [
+      25.0,
+      34.0
+    ],
+    "barrel_to_barrel_clearance_mm": 0.2,
+    "channel_axes_deg": [
+      -45,
+      0,
+      45
+    ],
+    "clamp_sector_deg_positive_and_negative": {
+      "CH0": [
+        80,
+        100
+      ],
+      "CH1": "mirror CH2 about local y",
+      "CH2": [
+        60,
+        96
+      ]
+    },
+    "clearance_source": "沿用此前比较假设，待机械确认",
+    "common_global_na": 0.98,
+    "edge_model": "接缝侧前端与首面齐平，普通固定布置在非接缝侧圆弧。0.20 mm 为相邻筒外壁间的总隙。",
+    "front_sphere_radius_mm": -123.06317803763115,
+    "full_field_mm": 4.0,
+    "image_quality_acceptance_channels": [
+      "CH0"
+    ],
+    "legacy_uniform_wall_comparison_mm": 3.0,
+    "line_field_axis": "垂直于三根光轴所在平面",
+    "local_thin_edges": {
+      "CH0": [
+        "left",
+        "right"
+      ],
+      "CH1": [
+        "right"
+      ],
+      "CH2": [
+        "left"
+      ]
+    },
+    "normal_mount_wall_mm": 3.0,
+    "object_na": 0.7,
+    "optical_edge_reserve_normal_mm": 0.15,
+    "outer_barrel_radial_fit_mm": 0.1,
+    "rear_sphere_radius_mm": -47.3194482945018,
+    "reference_geometry": "首片两面取本 OWX 的 S1、S2；晶圆为世界 z=0 面。",
+    "requested_seam_range_deg": [
+      6.0,
+      8.0
+    ],
+    "required_max_seam_deg": 8.0,
+    "s1_lens_outer_radius_mm": 38.0,
+    "seam_glass_to_wall_fit_mm": 0.05,
+    "seam_optical_to_glass_cut_mm": 0.1,
+    "source_of_new_mount_dimensions": "接缝局部薄壁采用本次设计值，常规壁厚按项目 3 mm。",
+    "straight_cut_x_over_z": 0.3920784235278427,
+    "target_seam_deg": 7.0,
+    "throughput_and_assembly_acceptance_channels": [
+      "CH1",
+      "CH0",
+      "CH2"
+    ],
+    "tip_wall_normal_mm": 1.5,
+    "wafer_min_metal_clear_mm": 1.0,
+    "wafer_min_side_glass_clear_mm": 4.0,
+    "wall_section": "首片接缝侧壁在局部 z=32 至 43 mm 从 1.50 mm 线性过渡到 3.00 mm。",
+    "wall_transition_local_z_mm": [
+      32.0,
+      43.0
+    ],
+    "working_vertex_distance_mm": 30.0
+  },
+  "full_aperture_parent_object_na": 0.7,
+  "image_channel_acceptance": [
+    "CH0"
+  ],
+  "mechanical_companions": [
+    "前组承靠弧段.json",
+    "中组首片端部承靠.json",
+    "镜筒实体复核.json",
+    "三物镜镜筒装配.glb"
+  ],
+  "note": "Native circular surfaces are the uncut parent. Apply the provided noncircular physical cells to reproduce the three packaged channels.",
+  "reference_channel": "CH0",
+  "side_channels": [
+    "geometric throughput",
+    "cell and glass collision"
+  ]
+}

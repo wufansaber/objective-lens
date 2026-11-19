@@ -1,0 +1,31 @@
+{
+  "source_sha256": "25262fb45b4cd6912709610f93052027d3ad1964ea09f5cabd3cc3cc47903665",
+  "cases": [
+    {
+      "lens_count": 15,
+      "combinations": 15,
+      "traced": 4,
+      "best": {
+        "removed": [
+          15
+        ],
+        "max_rms_um": 439.6036168213256,
+        "sensor_refocus_mm": 4.197611555170557
+      }
+    },
+    {
+      "lens_count": 14,
+      "combinations": 105,
+      "traced": 12,
+      "best": {
+        "removed": [
+          15,
+          16
+        ],
+        "max_rms_um": 318.49338808844453,
+        "sensor_refocus_mm": 12.413343432526997
+      }
+    }
+  ],
+  "method": "Retain L1; physically remove the selected lens surfaces, reopen all apertures, restore paraxial objective D=0 and 10× magnitude with remaining powered surfaces, optimize a common planar image focus for five fields. Initial screening, not a global redesign."
+}

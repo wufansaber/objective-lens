@@ -1,0 +1,30 @@
+{
+  "source_sha256": "25262fb45b4cd6912709610f93052027d3ad1964ea09f5cabd3cc3cc47903665",
+  "fields": 101,
+  "positive_field_mm": [
+    0,
+    2
+  ],
+  "channels": {
+    "CH0": {
+      "rays": 129381,
+      "metal_ray_findings": {},
+      "least_radial_clearance_mm": 1.399423359222034,
+      "minimum_planar_seam_wall_clearance_mm": 2.1731273409887684
+    },
+    "CH1": {
+      "rays": 129381,
+      "metal_ray_findings": {},
+      "least_radial_clearance_mm": 1.399423359222034,
+      "minimum_planar_seam_wall_clearance_mm": 2.1731273409887684
+    },
+    "CH2": {
+      "rays": 129381,
+      "metal_ray_findings": {},
+      "least_radial_clearance_mm": 1.399423359222034,
+      "minimum_planar_seam_wall_clearance_mm": 2.1731273409887684
+    }
+  },
+  "passed": true,
+  "definition": "Inside all assembled bores and arc feet/webs over continuous ray segments. Exact wedge/slab clipping per ray. First cell separately checked against piecewise-planar tip, wafer-side cut, and polished seat band."
+}
